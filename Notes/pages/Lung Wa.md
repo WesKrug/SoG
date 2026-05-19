@@ -1,0 +1,17 @@
+- Lost Omens: Tian Xia World Guide p12
+- Following the Shu empitre, Lung Wa emerged victoria as its successor.
+- Notorious for its tyrannical law, corruptions, and whimsical administrators
+- [[Wuo Wu Zheng]] was the founding emperor
+- Stable yet brutal rule.
+	- Harsh taxes fueled its military and corrupt officials
+	- Failure to pay was pebnalized by force labor or enlistment into an army
+- Any unrest was blamed on ancestral minorities
+- [[Hao Jin]] created her famous tapestry to preserve places and people she felt were in danger of being erased from history
+- People began relying on folk heroes as distrust for the government grew
+	- Mostly vigilantes  who accepted disciples, formed schools, or pass their skills on
+	- Became an avenue for common folk to seek help
+	- Mixed feelings from Lung Wa
+- Imploded alongside Aroden's death
+	-
+	-
+	-

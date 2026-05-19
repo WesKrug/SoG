@@ -1,0 +1,5 @@
+- Indistinguishable from the living world
+- Surrounded by a fog wall that surrounds the region which forces the residents to come to term with their reality
+- Every year on the last day of spring, time resets and all memory / progress is lost
+- Been going on for 115 years
+-

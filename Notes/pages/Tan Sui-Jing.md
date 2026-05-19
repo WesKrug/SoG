@@ -1,0 +1,2 @@
+- Founded the [[Tan Sugi Monastery]] in 7020
+- Sacrificed herself to defeat the fiend [[Kugaptee]] and became the Sugi Tree

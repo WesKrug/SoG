@@ -1,0 +1,2 @@
+- Founding emperor of Lung Wa
+- Started the tradition of relocating the capital every time a successor took the throne
