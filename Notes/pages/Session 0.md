@@ -1,1 +1,105 @@
--
+- Alternative gaming rules
+	- Proficiency by level?
+		- Ideally we keep it to make my life easier
+		- Playing with proficincy by level
+		-
+	- Stamina
+		- I would love to try it to alleviate the necessity of a healer and simplify recovery
+		- yes to stamina
+- Other Notes
+	- General difficulty of the campaign
+		- I'll do my best to make it somewhat challenging, but should character death be a risk factor?
+		- 2/10 difficulty
+	- My first time GMing in a long time, go easy on me
+	- Lines and Veils
+		- Where would you all draw the line? Very RP heavy adventure
+			- No RPing sex
+			- No animatronic spiders
+	- Recording / Transcribing
+		- I would love to use AI to transcribe session notes for me, and i think having the recordings would be neat
+			- they're ok with it!
+	- Frequency of Play
+		- Every 2 weeks, 4-6 hours
+- [[Tian Xia]]
+  collapsed:: true
+	- Playing in an unfamiliar existing environment
+	- 5 Tips
+		- Celestials aren't always good
+		- Appearances are deceiving
+		- Dragons aren't monsters
+		- Spirits aren't abstract
+		- The dead are never truly gone
+	- [[Shenmen]]
+		- Country in the center of Tian Xia
+		- Largely made of up the Specterwood and the Goassamer Mountains along the western border
+		- Against the Sea of Ghosts along its eastern border
+		- [[Willowshore]]
+			- Town within the Specterwood - established for the valueable specterwood and ores from the Gossamer mountains
+			- Largely a logging village
+- Character Details
+	- Character Questions
+		- How is your character connected to Willowshore?
+			- Born here? Family? Traveler that decided to stay?
+		- Who are you closest to in town?
+			- Doesn't have to be a specific NPC - could be family you made up or something
+		- What does your character hate / what motivates them?
+		- What did your character do during the Winter of 7106?
+	- Maddie
+		- Broad Strokes
+			- Establishment of the town
+			- Older lady, big gossip, likely to smack you with her stick
+			- Her family has left, sometimes visit with her kids
+			- Retired drinking tea and playing games
+			- Grumpy south curmudgeon
+			- Oracley-ness has manifested recently but doesn't understand origin
+		- Kitsune Oracle
+			- Close with graveyard lady
+			- Antagonistic toward Granny Hu
+		- Likes
+			- drinking tea
+			- gossip
+			- Seeking disconnected connections
+			- Has her tea buddy who encourages social activity
+		- Dislikes
+			- Man
+			- Feels left behind, stuck in time
+		- Motivations
+			- Waiting to die essentially, jealous of the 'life' people are living
+	- Brad
+		- Broad Strokes
+			- Outskirts, farmer
+			- Shaylene - human drood
+			- Lost his wife during the horrible winter of 7106
+			- Likes
+				- Quiet
+				- Earth & Nature
+			- Dislikes
+				- Hustle & Bustle of town
+				- Industry
+				- Hates the lumber mill
+	- Wyatt
+		- Broad Strokes
+			- Granny Hu
+				- Does a lot of grunt work
+				- Off shift, frequent the tavern
+			- Tenuki Spirit Barbarian hired muscle
+			- Cares about a good drink, a hard fight, and a "rest" after long day's work
+			- Both a class clown way / anger management way
+	- Liam
+		- Broad strokes
+			- Lives alone around W30
+			- Cares for Ugly Cute and the lantern
+			- Owner of 'Goassamer threads'
+		- Sells to everybody, well known for his fine wares and the aristocracy frequent his establishment. They'll commission him for his work
+		- Mr. Tsuchi - gossamer threads owner near Spider Gate
+		- volunteer caretaker of ugly cute
+		- Likes
+			- Quiet
+			- Shade
+			- Earth & Nature
+		- Dislikes
+			- Being very high
+			- Loud noises
+			- Bright lights
+			- Fire
+			- Frogs

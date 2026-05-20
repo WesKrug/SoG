@@ -1,4 +1,4 @@
-- City Details
+-
 	- Population 225
 		- 73% humans, 8% half-elves, 6% halflings, 5% kitsune, 4% elves, 4% tengu, 3% nagaji, 7% others
 	- Languages
