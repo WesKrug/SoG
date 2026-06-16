@@ -1,1 +1,27 @@
+- Start by going over the [Reenactment Festival](https://docs.google.com/document/d/1q0IzdxRVWtCZBeGbDrMFTSLTVWsfJYaxP9i5UF0dsHc/edit?tab=t.0#heading=h.v8qgx3tuqb51)
+	- Go over character introductions / scenes
+	-
+- [[Reenactment Festival]]
+	- ### **Grave Tending Ceremony**
+		- Morning begins and everyone begins by heading to W10 - [[Her Fluvial Lady of Souls]] for the Grave Tending Ceremony
+			- If the PCs have family graves that they want to tend, give them the opportunity to do so and RP the scene
+			- If they don't [[Elizeth Candora]] lets them tend to some of the less loved graves
+			- Explain the [[Night of Broken Blades]]
+	- ### **Rage of a Broken Umbrella**
+		- As the PCs head to downtown, a girl named [[Bai-Yu]] is crying
+			- If no PC engages, have Old Matsugi lean over and ask what's wrong, which the PCs overhear
+				- > “Help please! I broke my mama’s Umbrella and now its really mad! I'm gonna be in so much trouble if she finds out!”
+			- As the PCs head to her house, they see the following:
+				- > You hear woeful howling and slamming on floorboards from outside the house. Inside you see the form of what was once an umbrella. The shaft and handle have been replaced by a thin shriveled human leg and foot of greyish black skin. Two holes have been punched into the paper canopy. Emerging from the top hole is a large blood shot eye. The hole directly beneath has become a mouth with a long lashing tongue.
+			- `DC 12 Occultism or Religion` to recall knowledge
+				- [Kasa-Obake](https://2e.aonprd.com/Monsters.aspx?ID=1350)
+				- A character can attempt to appease the Kasa-Obake with flattery (Performance), making Bai-Yu apologize (Diplomacy with a +2 circumstance bonus) or by repairing it (Crafting (trained) +5 circumstance bonus). Regardless, the DC is 14.
+				  collapsed:: true
+					- **Critical Success.** As success but whether magically or through incredible craftsmanship the hole is repaired and near impossible to notice.
+					- **Success.** The Kasa-Obake is pacified and returns to a normal umbrella. If the character used crafting, it has an obvious patch over the tear.
+					- **Failure.** The Kasa-Obake is not appeased, and continues throwing a tantrum, the character cannot attempt another check using that skill.
+					- **Critical Failure.** As failure, but the Kasa-Obake is enraged and attacks the character. Bai-Yu and the parents take cover. Only a critical success or destroying the Kasa-Obake can resolve the situation.
+		- ### ** [[Founding of Willowshore Play]] **
+		-
+		-
 -

@@ -1,0 +1,10 @@
+- Zhi Hui takes the role of the main character and narrator.
+- The town was founded 88 years ago to support the construction of the Tan Sugi monastery around a spiritually significant sugi tree.
+- Zhi Hui and her laborers carefully travel through the wilderness to ensure the path to the monastery is safe, but more importantly, beautiful.
+- Zhi Hui lives a long and wonderful life, allowing many practitioners of Sangpotshi to travel to this remote location, furthering them along their paths to enlightenment.
+- Zhi Hui passes away in her sleep, dramatically, she does not get to name her heir, as her breath is taken from her before she can speak it.
+- Zhi Hui’s ghost becomes the narrator for the remainder of the play.
+- Tragedy befalls the monastery, bickering over who should next lead tears the following apart, the monastery is vacated by all inhabitants.
+- Willowshore is forced to move on without the monastery, they turn to lumber trade to make ends meet. Lung Wa’s interest in the town's lumber brings in a second wave of settlers, who make their homes amongst the town's northern ridge.
+- Tragedy strikes the town. A second wave of lumberers sets their sights on the trees of the abandoned Tan Sugi Monastery, mysteriously, they all return as ghoulish monsters wielding broken axes that attack the town! The monsters are felled or run off by the heroic town guards! This becomes known as the Night of Broken Blades, and the monastery becomes forbidden.
+- Lung Wa collapses, the lumber barons flee the town, but Heh-Shan Bao (played by a teenager wearing a silly mustache) remains with the town. The real Heh Shan Bao, still dressed as Zhi Hui, stands at center stage and intensely thanks the town for accepting him, and he looks forward to many more years as their governor. He then stands up and invites the other actors to take a bow with him as the play ends.
