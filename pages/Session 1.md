@@ -48,4 +48,5 @@
 		- He then explains the poem, referring to the [[Eternal Lantern]] on the southern end of the [[Dawn Step Bridge]]
 	- ### [[Eight Practices]] Lecture
 		- [[Kazuma Oona]] steps up and gathers the attention of the children to recite the [[Eight Practices]]
-	-
+	- ### **Gifts for Ugly Cute**
+		- [[Zheng Peng]] slams Brass symbols together to gather everyone's attention and mark the
