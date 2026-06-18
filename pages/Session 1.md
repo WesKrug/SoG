@@ -22,6 +22,7 @@
 					- **Failure.** The Kasa-Obake is not appeased, and continues throwing a tantrum, the character cannot attempt another check using that skill.
 					- **Critical Failure.** As failure, but the Kasa-Obake is enraged and attacks the character. Bai-Yu and the parents take cover. Only a critical success or destroying the Kasa-Obake can resolve the situation.
 		- ### ** [[Founding of Willowshore Play]] **
+			-
 		-
 		-
 -
