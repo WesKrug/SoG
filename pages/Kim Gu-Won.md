@@ -1,9 +1,10 @@
 - **Ancestry**
-	-
+	- Human Male
 - **Occupation**
-	-
+	- Cleric ([[Kofusachi]])
+	- Trade manager
 - **Location**
-	-
+	- Ceiba-Duyue Exchange
 - **Personality**
 	-
 - **Family**
