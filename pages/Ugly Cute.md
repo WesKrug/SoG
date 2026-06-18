@@ -12,4 +12,4 @@
 	- https://2e.aonprd.com/Monsters.aspx?ID=4645&Redirected=1
 	-
 - **Description**
-	- It's a large stone spider status with swirl-like patterns engraved all over its body. The stones are smooth despite the statue's age. It's abdomen is covered in the same repeating swirling pattern, almost like someone pressed their hand against it and twisted the stone over and over again.
+	- It's a large stone spider status with swirl-like patterns engraved all over its body. The stones are smooth despite the statue's age. It's abdomen is covered in the same repeating swirling pattern, almost like someone pressed their hand against it and twisted the stone over and over again. It's 8 legs are clearly articulated, mimicing the bone structure of humanoids. Each leg is
