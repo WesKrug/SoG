@@ -52,4 +52,4 @@
 		- [[Zheng Peng]] slams Brass symbols together to gather everyone's attention and mark the time to bring gifts for [[Ugly Cute]]
 		- Two guards holding wooden trays of gifts approach.
 		- Gifts are gross looking bags covered in string and rope with a small braided dough twist inside
-		- Encourage the PCs to take one and head to
+		- Encourage the PCs to take one and head to give thanks to [[Ugly Cute]]
