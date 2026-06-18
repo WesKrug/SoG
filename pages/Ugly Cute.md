@@ -12,4 +12,4 @@
 	- https://2e.aonprd.com/Monsters.aspx?ID=4645&Redirected=1
 	-
 - **Description**
-	- It's a large stone spider status with swirls
+	- It's a large stone spider status with swirl-like patterns engraved all over its body. The stones are smooth despite
