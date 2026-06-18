@@ -5,4 +5,8 @@
 	- [[Seven Colored Songbird]]
 	- [[Treesparrow's Rest]]
 	- [[The Barracks]]
+	- Stables
+	- Public Stage
+	- Mudwall House
+		- Home of [[Nadoya Sanmi]]
 	-
