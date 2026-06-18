@@ -1,0 +1,12 @@
+- Affiliation
+	- Northridge
+- Location
+	- W 25 - Just north of Downtown
+- Wares
+	- N/A
+- NPCs
+	-
+- Services
+	-
+- Description
+	-

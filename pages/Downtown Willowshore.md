@@ -8,7 +8,7 @@
 	- Stables
 	- Public Stage
 	- Shelyn Shrine
-	-
+	- [[Cerulean Teahouse]]
 	- Mudwall House
 		- Home of [[Nadoya Sanmi]]
 	-
