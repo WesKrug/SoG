@@ -35,7 +35,9 @@
 			- [[Zakatu]]
 				- Selling fresh fish
 	- ### [[Lantern Poem]]
-		- > [[Kim Gu-Won]] steps onto the stage after some time, standing a bit too straight and projecting his voice a bit too loudly and
+		-
+		- > [[Kim Gu-Won]] steps onto the stage after some time, standing a bit too straight and projecting his voice a bit too loudly as he reads from a scroll
+		- "Lazy Adou
 		-
 		-
 -
