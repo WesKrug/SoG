@@ -21,8 +21,11 @@
 					- **Success.** The Kasa-Obake is pacified and returns to a normal umbrella. If the character used crafting, it has an obvious patch over the tear.
 					- **Failure.** The Kasa-Obake is not appeased, and continues throwing a tantrum, the character cannot attempt another check using that skill.
 					- **Critical Failure.** As failure, but the Kasa-Obake is enraged and attacks the character. Bai-Yu and the parents take cover. Only a critical success or destroying the Kasa-Obake can resolve the situation.
-		- ### ** [[Founding of Willowshore Play]] **
-			-
+	- ### ** [[Founding of Willowshore Play]] **
+	- ### Downtime
+		- Obvious cliques of North Grannd Hu / South Old Matsuki groups
+		- Food Stalls / Vendors
+			- Mama Bao
 		-
 		-
 -
