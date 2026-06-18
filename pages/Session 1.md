@@ -21,8 +21,8 @@
 					- **Success.** The Kasa-Obake is pacified and returns to a normal umbrella. If the character used crafting, it has an obvious patch over the tear.
 					- **Failure.** The Kasa-Obake is not appeased, and continues throwing a tantrum, the character cannot attempt another check using that skill.
 					- **Critical Failure.** As failure, but the Kasa-Obake is enraged and attacks the character. Bai-Yu and the parents take cover. Only a critical success or destroying the Kasa-Obake can resolve the situation.
-	- ### ** [[Founding of Willowshore Play]] **
-	- ### Downtime
+	- ### [[Founding of Willowshore Play]]
+	- ### **Downtime**
 	  collapsed:: true
 		- Have the PCs walk around [[Downtown Willowshore]] or wherever they like
 		- Obvious cliques of North Grannd Hu / South Old Matsuki groups
@@ -46,7 +46,7 @@
 		  Hazy mist and moon of blood,
 		  all because he just gave up.
 		- He then explains the poem, referring to the [[Eternal Lantern]] on the southern end of the [[Dawn Step Bridge]]
-	- ### [[Eight Practices]] Lecture
+	- ### [[Eight Practices]] **Lecture**
 		- [[Kazuma Oona]] steps up and gathers the attention of the children to recite the [[Eight Practices]]
 	- ### **Gifts for Ugly Cute**
 		- [[Zheng Peng]] slams Brass symbols together to gather everyone's attention and mark the time to bring gifts for [[Ugly Cute]]
