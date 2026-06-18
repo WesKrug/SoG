@@ -38,7 +38,12 @@
 		- You see [[Kim Gu-Won]] step up to the stage and proclaim ask the children to gather around as he teaches them the [[Lantern Poem]]
 		- > [[Kim Gu-Won]] steps onto the stage after some time, standing a bit too straight and projecting his voice a bit too loudly as he reads from a scroll
 		- > Lazy Adou took a break, and 
-		  did not
+		  did not light the lamp that day
+		  This proved to be a big mistake, for
+		  then the ghosts came out to play!
+		  Hazy mist and moon of blood,
+		  all because he just gave up.
+		- He then explains the poem, referring to the [[Eternal Lantern]]
 		-
 		-
 -
