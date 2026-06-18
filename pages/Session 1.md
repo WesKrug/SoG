@@ -25,7 +25,10 @@
 	- ### Downtime
 		- Obvious cliques of North Grannd Hu / South Old Matsuki groups
 		- Food Stalls / Vendors
-			- Mama Bao
+			- [[Mama Bao]]
+				- Selling steamed buns
+			- [[Sumika]]
+				-
 		-
 		-
 -
