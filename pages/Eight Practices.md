@@ -1,0 +1,2 @@
+- **1.** **Do not call a ghost a ghost; instead, address them with friendly greetings if you must.**
+-
