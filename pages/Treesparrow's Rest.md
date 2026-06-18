@@ -5,7 +5,7 @@
 - Wares
 	-
 - NPCs
-	- [[Sumika]]
+	-
 	-
 - Services
 	-
