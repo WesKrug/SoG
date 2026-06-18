@@ -1,14 +1,15 @@
 - **Ancestry**
-	- Stone Spider https://2e.aonprd.com/Monsters.aspx?ID=4645&Redirected=1
+	- Stone Spider
 - **Occupation**
-	-
+	- Town Guardian
 - **Location**
-	-
+	- Spider Gate
 - **Personality**
 	-
 - **Family**
 	-
 - **NPC Stat Block**
+	- https://2e.aonprd.com/Monsters.aspx?ID=4645&Redirected=1
 	-
+- **Description**
 	-
--
