@@ -1,2 +1,9 @@
 - **1.** **Do not call a ghost a ghost; instead, address them with friendly greetings if you must.**
+- **2.** **Do not pat people on the head or shoulders.**
+- **3.** **Avoid entering bodies of water when a ghost is nearby.**
+- **4.** **Do not eat food that has two stick-like objects protruding from it.**
+- **5.** **Do not lean against walls during the day.**
+- **6.** **Do not whistle at night.**
+- **7.** **Do not leave laundry out at night.**
+- **8. If you hear someone call your name from behind you at night, do not turn around.**
 -
