@@ -62,5 +62,5 @@
 	- ### **The Reenactment Begins**
 		- Sunset begins to fall upon Willowshore as the PCs make their way back
 		- A guard wearing a mask lets out a blood curdling howl and there's a sense of excitement
-		- Each PC is prompted
+		- Each PC is prompted to come with [[Ba Ming Ouh]] as they return to the town
 		-
