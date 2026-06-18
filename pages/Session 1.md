@@ -61,5 +61,6 @@
 		- After they have or have not done so, they feel like they're being watched as they leave
 	- ### **The Reenactment Begins**
 		- Sunset begins to fall upon Willowshore as the PCs make their way back
-		- A guard wearing a mask
+		- A guard wearing a mask lets out a blood curdling howl and there's a sense of excitement
+		- Each PC is prompted
 		-
