@@ -28,6 +28,8 @@
 			- [[Mama Bao]]
 				- Selling steamed buns
 			- [[Sumika]]
+				- Selling fresh board pork
+			- [[Mountain Summit Grass]]
 				-
 		-
 		-
