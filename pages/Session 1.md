@@ -53,3 +53,5 @@
 		- Two guards holding wooden trays of gifts approach.
 		- Gifts are gross looking bags covered in string and rope with a small braided dough twist inside
 		- Encourage the PCs to take one and head to give thanks to [[Ugly Cute]]
+		- Each PC should give thanks to the statue, offering half of the dough twist to be placed at its feet.
+		- After they have or have no
