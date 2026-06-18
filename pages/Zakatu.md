@@ -1,0 +1,3 @@
+- Femail Ratfolk
+- Fisherrat
+- She's able to sense weather changes

@@ -30,7 +30,9 @@
 			- [[Sumika]]
 				- Selling fresh board pork
 			- [[Mountain Summit Grass]]
-				-
+				- Selling tea
+			- [[Zakatu]]
+				- Selling fresh fish
 		-
 		-
 -
