@@ -1,1 +1,8 @@
-- Female Half-Eld
+- **Ancestry**
+	- Female Half-Elf
+- **Occupation**
+	- Hunter
+- **Location**
+	-
+- Picture on pg 21 of Book 1
+-
