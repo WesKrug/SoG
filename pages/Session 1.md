@@ -44,7 +44,5 @@
 		  Hazy mist and moon of blood,
 		  all because he just gave up.
 		- He then explains the poem, referring to the [[Eternal Lantern]] on the southern end of the [[Dawn Step Bridge]]
-		-
-		-
-		-
--
+	- ### [[Eight Practices]] Lecture
+	-
