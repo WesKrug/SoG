@@ -7,6 +7,8 @@
 	- [[The Barracks]]
 	- Stables
 	- Public Stage
+	- Shelyn Shrine
+	-
 	- Mudwall House
 		- Home of [[Nadoya Sanmi]]
 	-
