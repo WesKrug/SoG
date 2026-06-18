@@ -3,6 +3,10 @@
 - **Occupation**
 	- Hunter
 - **Location**
+	- [[Silvermist Lodge]]
+- **Personality**
+	- Independent, Confident
+- **Family**
 	-
 - Picture on pg 21 of Book 1
 -
