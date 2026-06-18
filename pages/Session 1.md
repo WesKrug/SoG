@@ -3,11 +3,13 @@
 	-
 - [[Reenactment Festival]]
 	- ### **Grave Tending Ceremony**
+	  collapsed:: true
 		- Morning begins and everyone begins by heading to W10 - [[Her Fluvial Lady of Souls]] for the Grave Tending Ceremony
 			- If the PCs have family graves that they want to tend, give them the opportunity to do so and RP the scene
 			- If they don't [[Elizeth Candora]] lets them tend to some of the less loved graves
 			- Explain the [[Night of Broken Blades]]
 	- ### **Rage of a Broken Umbrella**
+	  collapsed:: true
 		- As the PCs head to downtown, a girl named [[Bai-Yu]] is crying
 			- If no PC engages, have Old Matsugi lean over and ask what's wrong, which the PCs overhear
 				- > “Help please! I broke my mama’s Umbrella and now its really mad! I'm gonna be in so much trouble if she finds out!”
@@ -47,11 +49,17 @@
 		  all because he just gave up.
 		- He then explains the poem, referring to the [[Eternal Lantern]] on the southern end of the [[Dawn Step Bridge]]
 	- ### [[Eight Practices]] **Lecture**
+	  collapsed:: true
 		- [[Kazuma Oona]] steps up and gathers the attention of the children to recite the [[Eight Practices]]
 	- ### **Gifts for Ugly Cute**
+	  collapsed:: true
 		- [[Zheng Peng]] slams Brass symbols together to gather everyone's attention and mark the time to bring gifts for [[Ugly Cute]]
 		- Two guards holding wooden trays of gifts approach.
 		- Gifts are gross looking bags covered in string and rope with a small braided dough twist inside
 		- Encourage the PCs to take one and head to give thanks to [[Ugly Cute]]
 		- Each PC should give thanks to the statue, offering half of the dough twist to be placed at its feet.
-		- After they have or have no
+		- After they have or have not done so, they feel like they're being watched as they leave
+	- ### **The Reenactment Begins**
+		- Sunset begins to fall upon Willowshore as the PCs make their way back
+		- A guard wearing a mask
+		-
