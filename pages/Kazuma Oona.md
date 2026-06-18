@@ -1,9 +1,9 @@
 - **Ancestry**
-	-
+	- Male Kitsune
 - **Occupation**
-	-
+	- Theater Director
 - **Location**
-	-
+	- Seven
 - **Personality**
 	-
 - **Family**
