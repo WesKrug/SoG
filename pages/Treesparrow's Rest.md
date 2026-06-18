@@ -1,3 +1,9 @@
 - Affiliation
 	- Southbank / Northbank
--
+- Location
+	- W15 - Downtown
+- Wares
+	- alcohol, grains, preserved foods, rations
+- NPCs
+	-
+	-
