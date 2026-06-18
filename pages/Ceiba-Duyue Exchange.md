@@ -1,0 +1,13 @@
+- Affiliation
+	- [[Northridge]]
+- Location
+	- W.21 pg 77
+- Wares
+	-
+- NPCs
+	-
+- Services
+	-
+- Description
+	- Warehouses and a trade office built in an attempt to expand industry and connection with [[Karahai]]
+	-
