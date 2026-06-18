@@ -5,7 +5,7 @@
 - Wares
 	-
 - NPCs
-	-
+	- [[Kim Gu-Won]]
 - Services
 	-
 - Description
