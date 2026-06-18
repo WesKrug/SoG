@@ -9,7 +9,6 @@
 	- Independent, Confident
 - **Family**
 	- Brad's daughter
--
 - **NPC Stat Block**
 	- https://2e.aonprd.com/NPCs.aspx?ID=3469&NoRedirect=1
 	-

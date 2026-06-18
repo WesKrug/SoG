@@ -23,6 +23,7 @@
 					- **Critical Failure.** As failure, but the Kasa-Obake is enraged and attacks the character. Bai-Yu and the parents take cover. Only a critical success or destroying the Kasa-Obake can resolve the situation.
 	- ### ** [[Founding of Willowshore Play]] **
 	- ### Downtime
+		- Have the PCs walk around [[Downtown Willowshore]] or
 		- Obvious cliques of North Grannd Hu / South Old Matsuki groups
 		- Food Stalls / Vendors
 			- [[Mama Bao]]
