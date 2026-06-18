@@ -3,7 +3,7 @@
 - **Occupation**
 	- Theater Director
 - **Location**
-	- Seven
+	- [[Seven Colored Songbird]]
 - **Personality**
 	-
 - **Family**
