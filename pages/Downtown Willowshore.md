@@ -11,4 +11,6 @@
 	- [[Cerulean Teahouse]]
 	- Mudwall House
 		- Home of [[Nadoya Sanmi]]
+	- [[Governor's Estate]]
+	-
 	-
