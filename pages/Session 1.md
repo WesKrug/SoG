@@ -35,9 +35,10 @@
 			- [[Zakatu]]
 				- Selling fresh fish
 	- ### [[Lantern Poem]]
-		-
+		- You see [[Kim Gu-Won]] step up to the stage and proclaim ask the children to gather around as he teaches them the [[Lantern Poem]]
 		- > [[Kim Gu-Won]] steps onto the stage after some time, standing a bit too straight and projecting his voice a bit too loudly as he reads from a scroll
-		- "Lazy Adou
+		- > Lazy Adou took a break, and 
+		  did not
 		-
 		-
 -
