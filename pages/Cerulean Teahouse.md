@@ -5,8 +5,10 @@
 - Wares
 	- N/A
 - NPCs
-	-
+	- [[Qing Mai-Lai]]
 - Services
-	-
+	- N/A
 - Description
+	- pg 78
+- History
 	-
