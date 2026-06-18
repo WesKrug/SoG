@@ -1,5 +1,6 @@
 - **Ancestry**
-	- Female Half-Elf
+	- Female Human
+	- Picture on pg 21 of Book 1
 - **Occupation**
 	- Hunter
 - **Location**
@@ -7,6 +8,8 @@
 - **Personality**
 	- Independent, Confident
 - **Family**
-	-
-- Picture on pg 21 of Book 1
+	- Brad's daughter
 -
+- **NPC Stat Block**
+	- https://2e.aonprd.com/NPCs.aspx?ID=3469&NoRedirect=1
+	-
