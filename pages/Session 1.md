@@ -46,7 +46,6 @@
 		- He then explains the poem, referring to the [[Eternal Lantern]] on the southern end of the [[Dawn Step Bridge]]
 	- ### [[Eight Practices]] Lecture
 		- [[Kazuma Oona]] steps up and gathers the attention of the children to recite the [[Eight Practices]]
-			- ---
 			- **1.** **Do not call a ghost a ghost; instead, address them with friendly greetings if you must.**
 			- > *This is because most ghosts are bitter, petty things made of yearning for what they had in life, to treat them as though they were alive wounds them and soothes them in equal measure.*
 			- **2.** **Do not pat people on the head or shoulders.**
