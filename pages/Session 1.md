@@ -23,6 +23,7 @@
 					- **Critical Failure.** As failure, but the Kasa-Obake is enraged and attacks the character. Bai-Yu and the parents take cover. Only a critical success or destroying the Kasa-Obake can resolve the situation.
 	- ### ** [[Founding of Willowshore Play]] **
 	- ### Downtime
+	  collapsed:: true
 		- Have the PCs walk around [[Downtown Willowshore]] or wherever they like
 		- Obvious cliques of North Grannd Hu / South Old Matsuki groups
 		- Food Stalls / Vendors
@@ -35,6 +36,7 @@
 			- [[Zakatu]]
 				- Selling fresh fish
 	- ### [[Lantern Poem]]
+	  collapsed:: true
 		- You see [[Kim Gu-Won]] step up to the stage and proclaim ask the children to gather around as he teaches them the [[Lantern Poem]]
 		- > [[Kim Gu-Won]] steps onto the stage after some time, standing a bit too straight and projecting his voice a bit too loudly as he reads from a scroll
 		- > Lazy Adou took a break, and 
@@ -46,20 +48,4 @@
 		- He then explains the poem, referring to the [[Eternal Lantern]] on the southern end of the [[Dawn Step Bridge]]
 	- ### [[Eight Practices]] Lecture
 		- [[Kazuma Oona]] steps up and gathers the attention of the children to recite the [[Eight Practices]]
-			- **1.** **Do not call a ghost a ghost; instead, address them with friendly greetings if you must.**
-			- > *This is because most ghosts are bitter, petty things made of yearning for what they had in life, to treat them as though they were alive wounds them and soothes them in equal measure.*
-			- **2.** **Do not pat people on the head or shoulders.**
-			- > *This is because the head is the center of spiritual energy, the purest spot of the body. It can be disruptive to one's vital energies to tap them on the head or shoulders. If you're not careful, it might disturb their energies enough for a ghost to possess them.*
-			- **3.** **Avoid entering bodies of water when a ghost is nearby.**
-			- > *This is because a second ghost may be haunting the water who tries to drown you!*
-			- **4.** **Do not eat food that has two stick-like objects protruding from it.**
-			- > *This is because the sticks are to let the spirits of the dead know this offering is for them, if you eat it, you're stealing.*
-			- **5.** **Do not lean against walls during the day.**
-			- > *Leaning against a wall during the day makes the town look happy and comfortable, which tells any passing spirits that we aren't being haunted and that might invite them to actually haunt us.*
-			- **6.** **Do not whistle at night.**
-			- > *This is because whistling summons shape-shifters that will kill you!*
-			- **7.** **Do not leave laundry out at night.**
-			- > *Laundry is made of sullied and dirty clothes, it is impure, much like evil spirits. Putting your laundry out at night is a welcome mat for these evil spirits.*
-			- **8. If you hear someone call your name from behind you at night, do not turn around.**
-			- > *This is how evil spirits trick you into revealing whether or not they have become strong enough to be heard and seen, ignore them, and they will assume they are not yet strong enough to hurt you.*
 	-
