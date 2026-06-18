@@ -1,0 +1,14 @@
+- **Ancestry**
+	- Stone Spider https://2e.aonprd.com/Monsters.aspx?ID=4645&Redirected=1
+- **Occupation**
+	-
+- **Location**
+	-
+- **Personality**
+	-
+- **Family**
+	-
+- **NPC Stat Block**
+	-
+	-
+-
