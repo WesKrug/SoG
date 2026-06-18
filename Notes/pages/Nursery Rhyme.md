@@ -1,0 +1,7 @@
+- _Lazy Adou took a break, and_
+- _did not light the lamp that day._
+- _This proved to be mistake, fo,_
+- _then the ghosts came out to play!_
+- _Hazy mist and moon of blood,_
+- _all because he just gave up_
+-

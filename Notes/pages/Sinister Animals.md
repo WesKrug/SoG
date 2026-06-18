@@ -1,0 +1,5 @@
+- **(secret) DC 15 Nature or Survival check**
+	- Reveals how unusual it is for creatures like this to be so aggressive and to avoid fleeing, especially during the day
+	- Their additional disturbing ability to speak is very strange - something supernatural is afoot
+	- **DC 15 Occultism or Religion Check**
+		- They're likely being influenced by some evil spirit

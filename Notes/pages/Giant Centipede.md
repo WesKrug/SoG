@@ -1,0 +1,3 @@
+- https://2e.aonprd.com/Monsters.aspx?ID=2875&Redirected=1
+- ![](https://2e.aonprd.com/Images/Monsters/Giant_Centipede.webp)
+-
