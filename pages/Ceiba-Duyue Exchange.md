@@ -10,4 +10,4 @@
 	-
 - Description
 	- Warehouses and a trade office built in an attempt to expand industry and connection with [[Karahai]]
-	-
+	- [[Granny Hu]] advised[[Governor Heh Shan-Bao]] to pick [[Kim Gu-Won]] as to post of Exchange Manager
