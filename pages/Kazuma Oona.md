@@ -1,0 +1,14 @@
+- **Ancestry**
+	-
+- **Occupation**
+	-
+- **Location**
+	-
+- **Personality**
+	-
+- **Family**
+	-
+- **NPC Stat Block**
+	-
+	-
+-
