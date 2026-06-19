@@ -31,7 +31,7 @@
 - [[Reenactment Festival]]
 	- ### **Grave Tending Ceremony**
 		- > What does everyone do in the morning? What's their ritual?
-		- Morning begins and everyone begins by heading to W10 - [[Her Fluvial Lady of Souls]] for the Grave Tending Ceremony
+		- Morning begins and everyone begins by heading to W10 - [[Her Fluvial Lady of Souls]] for the Grave Tending Ceremony~~
 			- If the PCs have family graves that they want to tend, give them the opportunity to do so and RP the scene
 			- If they don't [[Elizeth Candora]] lets them tend to some of the less loved graves
 			- Explain the [[Night of Broken Blades]]
