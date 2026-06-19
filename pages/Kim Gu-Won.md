@@ -4,7 +4,7 @@
 	- Cleric ([[Kofusachi]])
 	- Trade manager
 - **Location**
-	- [[Ceiba-Duyue Exchange]]
+	- [[Ceiba-Duyue Exchange]] #card
 - **Personality**
 	-
 - **Family**
