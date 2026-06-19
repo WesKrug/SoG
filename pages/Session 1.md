@@ -35,7 +35,7 @@
 			- If the PCs have family graves that they want to tend, give them the opportunity to do so and RP the scene
 			- If they don't [[Elizeth Candora]] lets them tend to some of the less loved graves
 			- Explain the [[Night of Broken Blades]]
-	- ### **Rage of a Broken Umbrella**
+	- ### **Rage of a Broken Umbrella?**
 	  collapsed:: true
 		- As the PCs head to downtown, a girl named [[Bai-Yu]] is crying
 			- If no PC engages, have Old Matsugi lean over and ask what's wrong, which the PCs overhear
