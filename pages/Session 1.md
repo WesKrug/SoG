@@ -12,6 +12,9 @@
 	- > Sumika - Father, you need to take your mind off of Mother. She... she isn’t coming back and she wouldn't want you so isolated. You need to move forward, get into town... Actually talk to people
 	- Wait for Brad to respond - I'm fine and don't want to. It's peaceful here.
 	- > Sumika gets angry, lowering her voice and saying sharply "**_Lin_**"
+	- Pause for Brad
+	- > "You are going to the festival next week. And you are going to volunteer."
+	-
 	-
 	-
 	-
