@@ -2,6 +2,7 @@
 	- Go over character introductions / scenes
 -
 - ### **Opening Scene - Brad's intro and volunteering backstory with Sumika**
+  collapsed:: true
 	- > Sunlight filters through a dense canopy. We pan down to see a small hut on the outskirts of town. It appears to be overgrown with vines and plants; but upon closer inspection you see that this is a farm. This is not a traditional farm. There are no harsh, cleared plots. Instead, rows of vibrant sweet potatoes and climbing vines weave seamlessly into surrounding [[Spectrewood]] . Nature and agriculture exist as one.
 	- > The camera shifts from first person to 3rd, as we realize we were looking through Sumika at this farm. She waers rugged forest hunting garb with a bow slung across her back. Her eyes trace the overgrown paths of her childhood home now filled with a heavy sorrow. She hears rustling beside her as she jumps and draws her bow; only to see a small Leshy. "Mika!" The Leshy squeals in excitement and rushes to her leg. Sumika relaxes her grip and smiles softly. The cute sweet-potato Leshy with bright purple about its body hugs her and exclaims "Where have you been? It's been almost 6 months since you last visited!"
 	- > Sumika responds "Hi, Tea. After last time... I think we both needed some time." She glances toward the shadowed house, her smile fading. "Is Father inside?"
@@ -14,10 +15,19 @@
 	- > Sumika gets angry, lowering her voice and saying sharply "**_Lin_**"
 	- Pause for Brad
 	- > "You are going to the festival next week. And you are going to volunteer."
+	- > SUMIKA- Because you need to talk! And the other volunteers, well... maybe a night with others will help you open up. Especially if you are tied up.
+	- LIN- (Stuttering, looking for exits)I—I can come to the festival. But the farm, I can't leave it for a full day. And certainly not the feast that morning. I don't need the attention, Sumi.
+	- > Sumika stands up, slamming her hands flat against the wooden table. The blue tea sloshes over the rims. The frustration explodes out of her.
+	  > SUMIKA- Listen to me! If you expect me to keep coming out here... No. I am not asking. You will be there, and you will volunteer, or I will not be back.
+	- Lin stares up at her. The room goes entirely still. He looks for a bluff in her eyes, but finds only iron resolve and a quiet, deeply hurt anger.
+	- The silence stretches. Slowly, the hard mask on Lin's face cracks. The exhaustion of his isolation weighs down his shoulders. He lets out a long,
+	  defeated sigh.
+	- LIN- (Softly)Sumika... okay.
+	- > Sumika looks at him for one last, lingering moment, her anger giving way to a fleeting look of pity. She turns and walks out, leaving the blue tea cooling
+	  on the table.[SCENE END]
 	-
 	-
-	-
-	-
+-
 	-
 - [[Reenactment Festival]]
 	- ### **Grave Tending Ceremony**
