@@ -2,8 +2,8 @@
 	- Go over character introductions / scenes
 -
 - ### **Opening Scene - Brad's intro and volunteering backstory with Sumika**
-	- > Sunlight filters through a dense canopy. We pan down to see a small hut on the outskirts of town. It appears to be overgrown with vines and plants; but upon closer inspection you see that this is a farm. This is not a traditional farm. There are no harsh, cleared plots. Instead, rows of vibrant sweet potatoes and climbing vines weave seamlessly into [[Spectrewood]] . Nature and agriculture exist as one.
-	-
+	- > Sunlight filters through a dense canopy. We pan down to see a small hut on the outskirts of town. It appears to be overgrown with vines and plants; but upon closer inspection you see that this is a farm. This is not a traditional farm. There are no harsh, cleared plots. Instead, rows of vibrant sweet potatoes and climbing vines weave seamlessly into surrounding [[Spectrewood]] . Nature and agriculture exist as one.
+	- > The camera shifts from first person to
 	-
 	-
 - [[Reenactment Festival]]
