@@ -1,7 +1,11 @@
 - Start by going over the [Reenactment Festival](https://docs.google.com/document/d/1q0IzdxRVWtCZBeGbDrMFTSLTVWsfJYaxP9i5UF0dsHc/edit?tab=t.0#heading=h.v8qgx3tuqb51)
 	- Go over character introductions / scenes
 -
--
+- ### **Opening Scene - Brad's intro and volunteering backstory with Sumika**
+	- > Sunlight filters through a dense canopy. This is not a traditional farm. There are no harsh, cleared plots. Instead, rows of vibrant sweet potatoes and
+	  climbing vines weave seamlessly into the ancient Tian Xia woodland. Nature and agriculture exist as one.
+	-
+	-
 - [[Reenactment Festival]]
 	- ### **Grave Tending Ceremony**
 	  collapsed:: true
