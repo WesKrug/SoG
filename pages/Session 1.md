@@ -8,6 +8,10 @@
 	- > [[Sweet Tea]] responds "He's tending the plants on the far side, let me grab him!"
 	- > "Thanks - I'll wait for him inside"
 	- A few minutes pass before Sumika's father enters the hut. She looks around the room and feels the suffocating quiet of the barely-cared for home.
+	- A man walks in - Brad, do you want to describe this man?
+	- > Sumika - Father, you need to take your mind off of Mother. She... she isn’t coming back and she wouldn't want you so isolated. You need to move forward, get into town... Actually talk to people
+	- Wait for Brad to respond
+	- >
 	-
 	-
 - [[Reenactment Festival]]
