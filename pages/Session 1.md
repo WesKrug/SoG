@@ -7,7 +7,7 @@
 	- > Sumika responds "Hi, Tea. After last time... I think we both needed some time." She glances toward the shadowed house, her smile fading. "Is Father inside?"
 	- > [[Sweet Tea]] responds "He's tending the plants on the far side, let me grab him!"
 	- > "Thanks - I'll wait for him inside"
-	- A few minutes pass before Sumika's father enters the hut. She looks around the room and feels the suffocating quiet of the
+	- A few minutes pass before Sumika's father enters the hut. She looks around the room and feels the suffocating quiet of the barely-cared for home.
 	-
 	-
 - [[Reenactment Festival]]
