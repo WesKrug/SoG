@@ -5,7 +5,9 @@
 	- > Sunlight filters through a dense canopy. We pan down to see a small hut on the outskirts of town. It appears to be overgrown with vines and plants; but upon closer inspection you see that this is a farm. This is not a traditional farm. There are no harsh, cleared plots. Instead, rows of vibrant sweet potatoes and climbing vines weave seamlessly into surrounding [[Spectrewood]] . Nature and agriculture exist as one.
 	- > The camera shifts from first person to 3rd, as we realize we were looking through Sumika at this farm. She waers rugged forest hunting garb with a bow slung across her back. Her eyes trace the overgrown paths of her childhood home now filled with a heavy sorrow. She hears rustling beside her as she jumps and draws her bow; only to see a small Leshy. "Mika!" The Leshy squeals in excitement and rushes to her leg. Sumika relaxes her grip and smiles softly. The cute sweet-potato Leshy with bright purple about its body hugs her and exclaims "Where have you been? It's been almost 6 months since you last visited!"
 	- > Sumika responds "Hi, Tea. After last time... I think we both needed some time." She glances toward the shadowed house, her smile fading. "Is Father inside?"
-	- > [[Sweet Tea]] responds "He's tending the plants on the far side, come
+	- > [[Sweet Tea]] responds "He's tending the plants on the far side, let me grab him!"
+	- > "Thanks - I'll wait for him inside"
+	- A few minutes pass before Sumika's father enters the hut. She looks around the room and feels the suffocating quiet of the
 	-
 	-
 - [[Reenactment Festival]]
