@@ -3,7 +3,7 @@
 -
 - ### **Opening Scene - Brad's intro and volunteering backstory with Sumika**
 	- > Sunlight filters through a dense canopy. We pan down to see a small hut on the outskirts of town. It appears to be overgrown with vines and plants; but upon closer inspection you see that this is a farm. This is not a traditional farm. There are no harsh, cleared plots. Instead, rows of vibrant sweet potatoes and climbing vines weave seamlessly into surrounding [[Spectrewood]] . Nature and agriculture exist as one.
-	- > The camera shifts from first person to
+	- > The camera shifts from first person to 3rd, as we realize we were looking through Sumika at this farm. She waers rugged forest hunting garb with a bow slung across her back. Her eyes trace the overgrown paths of her childhood home now filled with a heavy sorrow. She hears
 	-
 	-
 - [[Reenactment Festival]]
