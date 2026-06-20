@@ -91,4 +91,5 @@
 		- Each PC is prompted to come with [[Ba Ming Ouh]] as they return to the town such that they can be prepared and to gather the gear they'll need for the night they must spend in the forest.
 		- Families are rushing home as the "monsters" rush through town, beating drums and howling into the night
 	- ---
-	-
+	- ### The Next Morning
+		-
