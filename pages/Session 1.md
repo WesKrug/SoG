@@ -27,7 +27,6 @@
 	  on the table.[SCENE END]
 	-
 	-
--
 - [[Reenactment Festival]]
 	- ### **Grave Tending Ceremony**
 		- > What does everyone do in the morning? What's their ritual?
