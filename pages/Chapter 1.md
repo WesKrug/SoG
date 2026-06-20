@@ -6,8 +6,8 @@
 	- DC 10 Survival or Willowshore Lore check to spot the game trail leading West back to town
 - ### [[First Day of Summer]]
 	- #### 4 Encounters
-		- collapsed:: true
-		  1. [[Strange Aggression]]
+		- 1. [[Strange Aggression]]
+		  {{video https://youtu.be/GjH8zQ8DRh0}}
 			- After some contemplation about their situation, someone noticing rustling in the nearby undergrowth
 			- Two [[Giant Centipede]]s scuttle toward the PCs. They hiss, making spooky sounds which begin to sound like words:
 				- "Meat... flesh... bones... fingers.... hair... skin... eyes..."
@@ -63,4 +63,6 @@
 				- Before the PCs leave the tower, she says
 					- > Go home, check on friends and family, make sure everyone is already. That's what I would do if not for this fog. Pharasma bless us, I hope my daughter is okay. Even though I asked Granny Hu to babysit, I worry. And my husband... hopefully he's safe at the Matsuki estate right now. That place is nearly a fortress!"
 	- ### **Back to Willowshore**
+		- #### [[Random Encounters]]
+			-
 		-

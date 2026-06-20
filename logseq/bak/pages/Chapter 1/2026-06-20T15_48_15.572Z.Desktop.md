@@ -1,0 +1,40 @@
+- PCs wake up with a strange feeling. Memories of the previous night return, and you recall being dragged from town by townsfolk during the [[Reenactment Festival]]
+- Things seem off - ceremonial straw mats and red blindfolds they were ceremoniously trussed up in the night before seem to be cruder, filthier, and less comfortable.
+- They wake up where they expect; but realize that something isn't right - [[Choe Chung-hu]] said he would arrive by sunrise with food to complete the reenactment but he's nowhere to be seen
+-
+- PCs make their way back to town, ask about exploration activities
+	- DC 10 Survival or Willowshore Lore check to spot the game trail leading West back to town
+- [[First Day of Summer]]
+	- 4 Encounters
+		- 1. Strange Aggression
+			- After some contemplation about their situation, someone noticing rustling in the nearby undergrowth
+			- Two [[Giant Centipede]]s scuttle toward the PCs. They hiss, making spooky sounds which begin to sound like words:
+				- "Meat... flesh... bones... fingers.... hair... skin... eyes..."
+			- After PCs win:
+				- [[Sinister Animals]] knowledge checks
+		- 2. Maze of Mist, Rain of Blood
+			- PCs continue West toward town along the path, the weather grows stranger
+			- Thick, heavy mist rolls in and quickly forms as a dense fog wall by the time they make it to the clearing by the riverside road
+				- _Mechanically_ - Creatures are concealed at ~100ft, and obscured at 500ft
+					- Spooky hallucinations and shapes  along the edge of the PC's vision
+					- -1 to Perception checks
+			- They see the Duyue River Bridge through the fog
+			- **DC 13 Society / Willowshore Lore**
+				- Crit Fail: wrong info about fog bringing summer sickness
+				- Success: Nursery rhyme that suggests the [[Eternal Lantern]] has been extinguished
+					- [[Nursery Rhyme]]
+			- [[Crimson Moon]]
+				- Comes out at night as the Mirage Mist clears
+				- DC 15 Will save or be Frightened (Crit +-1)
+				- In theory, this goes away as the [[Eternal Lantern]] is list, but its way too cool to go away that quick
+				- Keep the Crimson Moon even after the lantern is lit, but negate it within close proximity of the lantern as it grows in strength every day
+				- [[Blood Rain]]
+					- _DC 14_ flat check to start
+					- Bloody, Gory rain begins showering down on the PCs and everything outside*
+					- *Immediately take a Will Save against the Blood Moon at -4 if outside*
+						- If the PC fails, they flee for a minute and _has_ to escape to somewhere inside
+		- 3. Spiderless Gate
+			-
+			-
+	- PCs head West back toward Willowshore over the Duyue River bridge (near [[W30]])
+	-

@@ -1,4 +1,8 @@
--
+- OST
+  collapsed:: true
+	- Day: {{video https://www.youtube.com/watch?v=FNQDpkIf7Vg}}
+	- Night: {{video https://www.youtube.com/watch?v=_aH3gsQ4Pog}}
+	-
 	- Population 225
 		- 73% humans, 8% half-elves, 6% halflings, 5% kitsune, 4% elves, 4% tengu, 3% nagaji, 7% others
 	- Languages

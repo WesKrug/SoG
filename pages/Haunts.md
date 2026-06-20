@@ -1,0 +1,13 @@
+- **Phantom Footsteps**
+	- https://2e.aonprd.com/Hazards.aspx?ID=133
+- **Locking Door**
+	- https://2e.aonprd.com/Hazards.aspx?ID=132
+- **Blood Soaked Soil**
+	- https://2e.aonprd.com/Hazards.aspx?ID=134
+- **Disembodied Voices**
+	- https://2e.aonprd.com/Hazards.aspx?ID=135
+- **Bloodthirsty Toy**
+	- https://2e.aonprd.com/Hazards.aspx?ID=138
+- **Toppling furniture**
+	- https://2e.aonprd.com/Hazards.aspx?ID=139
+-
