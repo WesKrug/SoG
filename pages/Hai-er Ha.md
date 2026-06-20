@@ -1,0 +1,12 @@
+- **Ancestry**
+	- Female Human
+- **Occupation**
+	-
+- **Location**
+	-
+- **Personality**
+	-
+- **Family**
+	-
+- **NPC Stat Block**
+	- https://2e.aonprd.com/NPCs.aspx?ID=3551&NoRedirect=1

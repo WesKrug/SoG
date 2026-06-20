@@ -1,0 +1,11 @@
+- **Ancestry**
+	- Human Male
+- **Occupation**
+	- Miller
+- **Location**
+	- Milling Houses
+- **Personality**
+	- team player, good boss
+- **Notes**
+	- Facilitator of the [[Reenactment Festival]], promised to bring breakfast
+-

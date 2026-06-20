@@ -1,0 +1,3 @@
+- https://2e.aonprd.com/Monsters.aspx?ID=3033&Redirected=1
+- ![https://2e.aonprd.com/Images/Monsters/Jinkin.webp](https://2e.aonprd.com/Images/Monsters/Jinkin.webp){:height 748, :width 780}
+-
