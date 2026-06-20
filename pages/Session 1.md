@@ -92,4 +92,4 @@
 		- Families are rushing home as the "monsters" rush through town, beating drums and howling into the night
 	- ---
 	- ### The Next Morning
-		-
+		- ~~
