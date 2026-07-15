@@ -1,0 +1,13 @@
+- [[Session 1]]
+	- Recap https://playepicly.com/app/sessions/ac16e99d-e1e6-4696-8e31-17017e5c15eb
+	- Possibility that they chase down the spider tracks - but the tracks enter the river and become impossible to follow
+	- Continuing from here: ((6a4c422a-a42a-4e14-b631-bbae063ab446))
+	- Afterward, 3 main branches of possibility
+		- Heading to [[Matsuki Estate]] to meet with [[Old Matsuki]]
+			- [[Heading to the Matsuki Estate]]
+		- Heading to [[Ceiba-Duyue Exchange]] to meet with [[Granny Hu]]
+		- Heading to the [[Dawn Step Bridge]] to re-light the [[Eternal Lantern]]
+		-
+		-
+	-
+-

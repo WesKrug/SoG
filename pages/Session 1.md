@@ -36,7 +36,7 @@
 			- Explain the [[Night of Broken Blades]]
 	- ### **Rage of a Broken Umbrella?**
 	  collapsed:: true
-		- As the PCs head to downtown, a girl named [[Bai-Yu]] is crying
+		- As the PCs head to downtown, a girl named [[Ha Bai-Yu]] is crying
 			- If no PC engages, have Old Matsugi lean over and ask what's wrong, which the PCs overhear
 				- > “Help please! I broke my mama’s Umbrella and now its really mad! I'm gonna be in so much trouble if she finds out!”
 			- As the PCs head to her house, they see the following:

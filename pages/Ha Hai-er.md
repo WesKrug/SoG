@@ -1,12 +1,13 @@
 - **Ancestry**
 	- Female Human
 - **Occupation**
-	-
+	- Guard
 - **Location**
-	-
+	- Eastern Watchtower
 - **Personality**
-	-
+	- Dutiful, but cowardly
 - **Family**
+	- She has a daughter, [[Ha Bai-Yu]]
 	-
 - **NPC Stat Block**
 	- https://2e.aonprd.com/NPCs.aspx?ID=3551&NoRedirect=1

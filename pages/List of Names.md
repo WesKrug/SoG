@@ -1,0 +1,15 @@
+- **Jiro Yamakawa** | Male Kitsune
+	- Town Guard - Dead
+- **Kang Ji-woo** | Female Human
+	- Town Guard - Dead
+-
+- Others to use
+	- **Min Dong-sun** | Male Human
+	- **Akihiro Mori** | Male Kitsune
+	- **Sujin Park** | Female Elf
+	- **Chit Thura** | Male Halfling
+	- **River’s Gentle Whisper** | Agender Leshy (Lotus)
+	- **Venerable Kenji** | Male Tengu
+	- **Yong Wu-Xiu** | Male Human
+	- **Huo Tian-Zhe** | Female Elf
+		-

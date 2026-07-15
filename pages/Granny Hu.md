@@ -4,6 +4,7 @@
 	- Retired Imperial Guard
 	- Leader of [[Northridge]] political party
 - **Location** #card
+  collapsed:: true
 	- [[Trade Office]] W21
 - **Personality** #card
 	- mild-mannered and polite
