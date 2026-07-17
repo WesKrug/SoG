@@ -1,0 +1,13 @@
+- **Ancestry**
+	- Female Elf
+- **Occupation**
+	- Herbalist 4
+- **Location**
+	- [[Graveside Manners]]
+- **Affiliation**
+	- [[Southbank]]
+- **Personality**
+	- Respectful, withdrawn but friendly. Follower of [[Sangpotshi]]
+- **Family**
+	-
+- **NPC Stat Block**

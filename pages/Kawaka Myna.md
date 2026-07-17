@@ -1,0 +1,11 @@
+- **Ancestry**
+	- Male tengu
+- **Occupation**
+	- Guild Leader 3
+	- Papermaker and Bookbinder
+- **Location**
+	- [[Cloud Paper House]]
+- **Affiliation**
+	- [[Southbank]]
+- **Personality**
+	- team player, good boss

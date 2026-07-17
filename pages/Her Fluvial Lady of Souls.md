@@ -1,1 +1,14 @@
-- W10 in [[Willowshore]]
+- Affiliation
+	- [[Unaffiliated]]
+- Location
+	- W10
+	- Contains the [[Pharasma Shrine]]
+- Wares
+	- Consumable religious items, divine scrolls
+- NPCs
+	- [[Elizeth Candora]]
+- Services
+	- As it was damaged during the monster invasion, [[Elizeth Candora]] can only provide scrolls up to 2nd-level during this adventure.
+	- Once summer is over, she can inscribe several runes (pg 74)
+- Description
+	- A Cathedral to Pharasma with a large graveyard where most Willowshore residents are buried. This place was one of the first prominent buildings in Willowshore due to the concern of preventing an undead uprising as the temple was being built.

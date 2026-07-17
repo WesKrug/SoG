@@ -1,0 +1,12 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W1
+- Wares
+	- Metalworks, adventuring gear (cookware), metal armor, metal weapons, metal shields
+- NPCs
+	- [[Yong Wu-Xiu]]
+- Services
+	-
+- Description
+	-

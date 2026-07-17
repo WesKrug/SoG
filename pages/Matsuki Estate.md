@@ -1,0 +1,12 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W6
+- Wares
+	-
+- NPCs
+	- [[Old Matsuki]]
+- Services
+	-
+- Description
+	- A large Tian-shu/Minkaian estate built to house two dozen of the Matsuki family. It's outer walls were whitewashed with limestone contained blessed salts and holy water

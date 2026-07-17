@@ -1,0 +1,12 @@
+- Affiliation
+	- [[Northridge]]
+- Location
+	- W12. [[Industrial District]]
+- Wares
+	- Alcohol, Essentials Oils and Perfume, Glassware and Glass Items
+- NPCs
+	-
+- Services
+	-
+- Description
+	-

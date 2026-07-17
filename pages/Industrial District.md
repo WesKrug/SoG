@@ -1,0 +1,16 @@
+- Affiliation
+	- [[Southbank]] / [[Northridge]]
+- Location
+	- W12
+	- [[Cloud Paper House]]
+	- [[Jadeite Essentials]]
+	- [[Rebel's Leatherworks]]
+- Wares
+	- See above
+- NPCs
+	- See above
+- Services
+	- See above
+- Description
+	- A number of small businesses related to the goods gathered from the surrounding woods. Many empty buildings are left from when [[Lung Wa]] collapsed. Many workers tried to leave but [[Governor Heh Shan-Bao]] forced a few shops to stay
+	-

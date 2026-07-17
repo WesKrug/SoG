@@ -1,0 +1,13 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W5, South of town following a path into the surrounding forest
+	- Contains the [[Ketephys Shrine]]
+- Wares
+	- Animal Parts, Snare Supplies
+- NPCs
+	- [[Sumika]]
+- Services
+	-
+- Description
+	- Two lodges of Elven architecture meld into the forest, having woodwork that conforms to the grain of the wood and design of the surrounding area. Nothing more than a stopping point for storing meat / skins, as well as hunting supplies which provide the hunters with everything they need before leaving Willowshore on a hunt, or upon returning.

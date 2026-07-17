@@ -1,0 +1,7 @@
+- Location
+	- W13
+	- At the bottom of this lake is the [[Lady Nanbyo Shrine]]
+- Description
+	- The first governor appointed to Willowshore by Lung Wa made an effort to tame the [[Ceiba River]] through various engineering feats.
+	- After the construction of the [[Willowshore Dam]], the lake formed which flooded much farmland and houses, including the [[Lady Nanbyo Shrine]]
+	- It's often treated as a shrine to the Widow of Suffering

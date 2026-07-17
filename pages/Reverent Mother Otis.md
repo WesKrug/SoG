@@ -1,0 +1,13 @@
+- **Ancestry**
+	- Genderfluid Half-Elf
+- **Occupation**
+	- Innkeeper 4
+- **Location**
+	- W7
+- **Affiliation**
+	- [[Southbank]]
+- **Personality**
+	- Free-spirited, rule-bending, easily slighted
+- **Family**
+	-
+- **NPC Stat Block**

@@ -1,0 +1,15 @@
+- **Ancestry**
+	- Female Kitsune
+- **Occupation**
+	- Priest 3
+- **Location**
+	- [[Nine Ear Shrine]]
+- **Affiliation**
+	- [[Southbank]]
+- **Personality**
+	- pious, venerates [[Daikitsu]]
+- **Family**
+	- Orphaned
+- **NPC Stat Block**
+	-
+	-

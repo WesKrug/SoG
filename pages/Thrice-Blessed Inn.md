@@ -1,0 +1,14 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W7
+- Wares
+	-
+- NPCs
+	- [[Reverent Mother Otis]]
+- Services
+	- Hire an employee to gather information for 1gp
+	- PCs can live here if they have nowhere else to go so long as they haven't offended the owner
+- Description
+	- Once known as the Thrice-Blessed Brothel, this was founded by 3 clerics of [[Kofusachi]], [[Calistria]], and [[Shelyn]]. This building has large, heavy shutters for privacy which make for solid defenses against monster attacks.
+	- Political complications forced the owner to shut down only a few years before [[Lung Wa]]'s collapse. With the aid of the local lawyer [[Luo Xi Yang]], she was able to prevent eviction and keep the building open as an inn.

@@ -1,0 +1,12 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W8
+- Wares
+	- De-husked grain, grain flour, stone objects
+- NPCs
+	- [[Choe Chung-hu]]
+- Services
+	- Always looking for hard work, PCs can earn an income here using athletics
+- Description
+	- Numerous millhouses are present in this section of town, 2 powered by water, 3 by wind, and 10 by man-power / draft animals. Working here is intense and backbreaking, but the miller's leader keeps moral high with encouragement, pushing back against unreasonable demands, and keeping wages stable.

@@ -1,0 +1,8 @@
+- Affiliation
+	- [[Unaffiliated]]
+- Location
+	- W11. The bridge between [[Northridge]] and [[Southbank]]
+	- [[Eternal Lantern]] is found at the center
+- Description
+	- After the brothel was established, the town's population began to grow enough to be considered a town by [[Shenmen]]'s standards. That meant that a lit lantern must be maintained at all times within the town near the entrace, at a major crossroads, or at a bridge. The lack of which suggests that the town is abandoned.
+	- From this requirements, [[Master Zhi Hui]] brought forth a treasured heirloom herself to serve this purpose

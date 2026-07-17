@@ -1,0 +1,8 @@
+- pg 23
+- Heavily guarded by a Buso [[Gurglegut]] as well as several [[Jinkin]]s
+- As the PCs come up to <100ft or so...
+	- Find quote on page 23
+- They can clearly see the Jinkins and can observe them without making a stealth check
+- `DC 15 Perception after 10 minutes of listening`
+	- Success chart on page 24
+	-

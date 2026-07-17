@@ -1,0 +1,2 @@
+- https://2e.aonprd.com/Monsters.aspx?ID=1086
+- ![](https://2e.aonprd.com/Images/Monsters/Buso.png)

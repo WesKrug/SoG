@@ -1,0 +1,13 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W4
+- Wares
+	- alchemical elixirs & tools, alchemical reagents, fresh and dried herbs
+- NPCs
+	- [[You So-Jin]]
+- Services
+	- Usage of the Alchemical Lab for 1sp/day
+- Description
+	- In the early days, Willowshore citizens practiced cremation to prevent undeath. The tombs in this old cemetery house the urns of many of those early settlers. Today, few citizens follow that practice, but the gravestones are kept clean and respected by the graveyard's keeper, [[You So-Jin]]
+-

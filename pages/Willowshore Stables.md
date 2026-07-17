@@ -1,0 +1,14 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W2
+- Wares
+	- Animal rentals, barding, saddle bags, land vehicles
+- NPCs
+	- [[Kum Soon-chong]] - Veterinarian
+	- [[Kum Meng-sung]] - Stable boy
+- Services
+	- Once the ranch is repared, Soon-chong can treat creatures
+- Description
+	- The town's veterinary facility. It uses livestock as beasts of burden, which influenced the village's food culture; causing many villagers to avoid eating beef.
+	- Largely destroyed, the fences gone and nearly all of the cattle / oxen have fled into the winderness

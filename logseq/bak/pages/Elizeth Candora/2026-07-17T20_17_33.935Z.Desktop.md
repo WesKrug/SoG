@@ -1,0 +1,3 @@
+- Second Gen Taladan from Goka
+- Priestess of Pharasma
+- Visited the Tan Sugi monastery as a child

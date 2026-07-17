@@ -1,0 +1,32 @@
+- First challenge: Crossing the river
+- The [[Ceiba River]] is very deep - about 20-25ft deep, with very little shallows - something that is very suitable for transporting lumber but not so much crossing the distance
+- Options to cross
+	- DC 15 Swim check to swim across; though the 3rd of the [[Eight Practices]] should give the PCs pause
+	- Using the [[Willowshore Dam]], which is currently Open.
+		- Can be closed as a 10min activity by `DC 15 Atheltics` or `DC 13 Engineering Lore`
+		- Triggers an encounter
+		- Once the Dam is closed, the waters lower to a depth of 10 feet and the DC is lowered by 5 for 2 hours, until [[Woodraft Lake]] swells enough  to spill over the spillways, which will raise the river back to its regular depth
+		- A PC can walk across but it's slick, which requires 5 DC 17 Acrobatics checks (over 5 minutes) to successfully cross
+	- Crossing [[Woodraft Lake]], which is currently filled with bodies of dead villagers.
+		- Hazard on page 18
+	- `DC 13 perception` to find a broken rowboat after 10 minutes
+		- Gray sidebar on pg 18
+- Once the PCs get there...
+	- > You enter the main office and see [[Granny Hu]] standing with [[Kim Gu-Won]] looking over a map of Willowshore using game pieces which seem to reprecent where monsters have been sighted and where people might be trapped. Granny Hu stops her examination with surprise as she sees you all and beckons you forward.
+	- She asks "How did you cross the river??" and then asks the PCs for an update, especially regarding what happened last night.
+	- She doesn't mention it to the PCs, but she then states that her primary objective is to retake downtown; however she trusts her son-in-law [[Zheng Peng]], the guard captain, to be able to hold his own for a week or so
+	- **Invading Monsters**
+		- She has heard a rumor that the "brain" of these operations is something named "[[Mo Douqui]]" Some human or yokai with strange occult powers.
+		- She doesn't see retaking the bridge as a priority, but rather that downtown is riddled with monsters and we need to start taking steps toward establishing control over the north bank.
+	- **Ugly Cute**
+		- She doesn't care about that statue. The idea of it "waking up on it's own" is ridiculous superstition. It may have become haunted or something, but we have more pressing matters to attend to than chasing down some ugly spider
+	- **The Unlit Lantern**
+		- You think I pay attention to something so superstitious?
+		- [[Kim Gu-Won]] speaks up to this, mentioning that [[Old Matsuki]] may know more, but he recalls something about requiring coins to be blessed in order to light the lantern...
+	- **Checking the Doctor**
+		- > I tried to fetch Dr [[Dami]] to join me here since I expect we'll find many injured folks in the coming days and I want to ensure his safety, my runner returned saying that he refused to leave his clinic [[The Hand of Spring]].
+		- [[Chapter 1: Clash at the Clinic]]
+	- **Missing Grandchildren**
+		- > Granny Hu pauses for a moment... then slowly and sadly states that her grand children are missing. They were last seen last night around the [[Mushroom House]]. She speculates that they were having their own party
+		- [[Chapter 1: The Worst Puzzle]]
+	-

@@ -1,0 +1,13 @@
+- **Ancestry**
+	- Female Kitsune
+- **Occupation**
+	- Blacksmith 3
+- **Location**
+	- [[Eternal Blaze Ironworks]]
+- **Affiliation**
+	- Southbank
+- **Personality**
+	- Secretive
+- **Family**
+	-
+- **NPC Stat Block**

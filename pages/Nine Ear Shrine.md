@@ -1,0 +1,13 @@
+- Affiliation
+	- [[Northridge]]
+- Location
+	- W9, contains the [[Daikitsu Shrine]]
+- Wares
+	- Fulus, Scrolls, Talismans
+- NPCs
+	- [[Ba-Ming Ouh]]
+- Services
+	- Crafting fulus up to 2nd level, and 1st level spell scrolls, as well as a few talismans (page 74)
+- Description
+	- Looks like a grain storage hut due to the mud-walled hut appearance. Inside, it descends about 10 feet into an enclosed space lined with stone, which houses a 15 foot marble statue of a nine-tailed fox. Large spiritual rope made of hang hangs off its neck. The walls are decorated and carved with stories of [[Daikitsu]]
+	-

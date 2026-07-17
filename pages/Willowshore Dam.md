@@ -1,0 +1,11 @@
+- Location
+	- W14, just east of the [[Dawn Step Bridge]]
+- Wares
+	-
+- NPCs
+	- [[Huo Tian-Zhe]]
+- Services
+	-
+- Description
+	- Minor engineering marvel - mostly constructed out of immense, precisely fitted slabs of dark-gray marble, carved with a carefully calculated curvature.
+	- Two giant wooden gates that can be closed or opened to lower the level of the lake. Spinning the wheel to open the gates will automatically cause a slight bell to ring, alerting those downstream to move

@@ -1,42 +1,39 @@
-- OST
+- **OST**
   collapsed:: true
 	- Day: {{video https://www.youtube.com/watch?v=FNQDpkIf7Vg}}
 	- Night: {{video https://www.youtube.com/watch?v=_aH3gsQ4Pog}}
 	-
-	- Population 225
-		- 73% humans, 8% half-elves, 6% halflings, 5% kitsune, 4% elves, 4% tengu, 3% nagaji, 7% others
-	- Languages
-		- Common (Tien)
-		- Elvish
-		- Halfling
-		- Nagaji
-		- Minatan
-		- Tengu
-		- Tian-hwa
-		- Tian-min
-	- Religions
-		- Abadar
-		- Daikitsu
-		- Lady Nanbyo
-		- Pharasma
-		- Sangotshi
-		- Others (small shrines)
-	- Prominent NPCs
-		- [[Granny Hu]]
-		- [[ Old Matsuki]]
-		- [[Heh Shan-Bao]]
-	- Politics
-		- Two primary factions
-			- [[Northridge]]
-				- Settlers from after Lung Wa's ascension who live on the north side of the Ceiba River
-				- Modern pragmatism and urban growth
-				- Open to [[Jorogumo]] ruling Shenmen
-			- [[Southbank]]
-				- Named due to the original inhabitants who settled to work on the [[Tan Sugi Monastery]] along the south side of the Ceiba River
-				- Traditionalists who want to maintain Willowshore's culture of living off the land
-				- Assert that [[Jorogumo]] are evil monsters best avoided
-			- They both agree on putting Willowshore's survival and safety first
-- History
+- Population 225
+	- 73% humans, 8% half-elves, 6% halflings, 5% kitsune, 4% elves, 4% tengu, 3% nagaji, 7% others
+- Languages
+  collapsed:: true
+	- Common (Tien)
+	- Elvish
+	- Halfling
+	- Nagaji
+	- Minatan
+	- Tengu
+	- Tian-hwa
+	- Tian-min
+- Religions
+	- Abadar
+	- Daikitsu
+	- Lady Nanbyo
+	- Pharasma
+	- Sangotshi
+	- Others (small shrines)
+- Politics
+	- Two primary factions
+		- [[Northridge]]
+			- Settlers from after Lung Wa's ascension who live on the north side of the Ceiba River
+			- Modern pragmatism and urban growth
+			- Open to [[Jorogumo]] ruling Shenmen
+		- [[Southbank]]
+			- Named due to the original inhabitants who settled to work on the [[Tan Sugi Monastery]] along the south side of the Ceiba River
+			- Traditionalists who want to maintain Willowshore's culture of living off the land
+			- Assert that [[Jorogumo]] are evil monsters best avoided
+		- They both agree on putting Willowshore's survival and safety first
+- **History**
   collapsed:: true
 	- Founded in [[Sangpotshi]] asceticism
 	- [[Tan Sui-Jing]] sacrificed herself to defeat the feind [[Kugaptee]] in 6223 IC and became the Sugi Tree
@@ -47,3 +44,92 @@
 	- Willowshore's remoteness saved it from banditry, but it also shielded it from the new that the [[Jorogumo]] had taken over [[Shenmen]] until 7108.
 	- [[Heh Shan-Bao]], the town's governor, attempted a ritual to restore the protective power of the [[Tan Sugi Monastery]], but it backfired and killed all of the residents
 	- The dead residents are now trapped in a [[Mindscape]], forced to relive the year 7108 over and over again in a separate reality
+- **Locations**
+	- [[Southbank]]
+		- W1. [[Eternal Blaze Ironworks]]
+		- W2. [[Willowshore Stables]]
+		- W3. [[Abadar Shrine]]
+		- W4. [[Graveside Manners]]
+		- W5. [[Silvermist Lodge]]
+		- W6. [[Matsuki Estate]]
+		- W7. [[Thrice-Blessed Inn]]
+		- W8. [[Milling Houses]]
+		- W9. [[Nine Ear Shrine]]
+		- W10. [[Her Fluvial Lady of Souls]]
+		- W11. [[Dawn Step Bridge]]
+		- W12. [[Industrial District]]
+		- W13. [[Woodraft Lake]]
+		- W14. [[Willowshore Dam]]
+		- W30. [[Spider Gate]]
+	- [[Northridge]]
+		- W15. [[Downtown Willowshore]]
+		- W16. [[Luo and Laws]]
+		- W17. [[Mercantile Street]]
+		- W18. [[Second Best]]
+		- W19. [[The Hand of Spring]]
+		- W20. [[Mother's Coil]]
+		- W21. [[Ceiba-Duyue Exchange]]
+		- W22. [[Fisheries]]
+		- W23. [[Willowshore Dock]]
+		- W24. [[Mushroom House]]
+		- W25. [[The Cerulean Teahouse]]
+		- W26. [[Abandoned Estates]]
+		- W27. [[The Leshy's Salon]]
+		- W28. [[Bones of the Forgotten]]
+		- W29. [[The Great Willow]]
+	- [[Shrines]]
+	  collapsed:: true
+		- [[Abadar Shrine]]
+		- [[Daikitsu Shrine]]
+		- [[Kofusachi Shrine]]
+		- [[Pharasma Shrine]]
+		- [[Shelyn Shrine]]
+		- [[Qi Zhong Shrine]]
+		- [[Ketephys Shrine]]
+		- [[Nalinivati Shrine]]
+		- [[Shinzuru Shrine]]
+		- [[Tsukiyo Shrine]]
+		- [[Desna Shrine]]
+		- [[Lao Shu Po Shrine]]
+		- [[Yaezhing Shrine]]
+		- [[Calistra Shrine]]
+		- [[Lady Nanbyo Shrine]]
+		-
+		-
+		-
+		-
+	-
+- **Prominent NPCs**
+	- [[Yong Wu-Xiu]]
+	- [[Kum Soon-chong]]
+		- [[Kum Meng-sung]]
+	- [[You So-Jin]]
+	- [[Sumika]]
+	- [[Old Matsuki]]
+	- [[Granny Hu]]
+	- [[Reverent Mother Otis]]
+	- [[Choe Chung-hu]]
+	- [[Ba-Ming Ouh]]
+	- [[Elizeth Candora]]
+	- [[Kawaka Myna]]
+	- [[Kazuma Oona]]
+	- [[Sanmi Nadoya]]
+	- [[De-Ge Hua]]
+	- [[Zheng Peng]]
+	- [[Luo Xi Yang]]
+	- [[Yun Mong-un]]
+	- [[Huo Tian-Zhe]]
+	- [[Dami]]
+	- [[Igawa Jubei]]
+	- [[Kim Gu-Won]]
+	- [[Zataku]]
+	- [[Rajul Samudra]]
+	- [[Luda Bama]]
+	- [[Mountain Summit Grass]]
+	- [[Great Willow]]
+	- [[Ha Hai-er]]
+		- [[Ha Yong-xiu]]
+		- [[Ha Bai-Yu]]
+- [[List of Names]]
+	-
+	-

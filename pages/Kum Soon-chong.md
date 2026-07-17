@@ -1,0 +1,13 @@
+- **Ancestry**
+	- Male Human
+- **Occupation**
+	- Veterinarian 3
+- **Location**
+	- W2. [[Willowshore Stables]]
+- **Affiliation**
+	- [[Southbank]]
+- **Personality**
+	-
+- **Family**
+	- Teenage son [[Kum Meng-sung]]
+- **NPC Stat Block**

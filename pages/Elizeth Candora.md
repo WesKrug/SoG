@@ -1,3 +1,13 @@
-- Second Gen Taladan from Goka
-- Priestess of Pharasma
-- Visited the Tan Sugi monastery as a child
+- **Ancestry**
+	- Female Human
+- **Occupation**
+	- Cleric 5
+- **Location**
+	- W10 [[Her Fluvial Lady of Souls]]
+- **Affiliation**
+	- [[Unaffiliated]]
+- **Personality**
+	- Mischievous, caring and thoughtful, reclusive and dutiful toward her work. Often found playing her flute in the graveyard.
+- **Family**
+	- A Second generation Taldan from Goka
+- **NPC Stat Block**

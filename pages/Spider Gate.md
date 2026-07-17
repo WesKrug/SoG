@@ -1,0 +1,8 @@
+- Affiliation
+	- [[Unaffiliated]]
+- Location
+	- W30
+- NPCs
+	- [[Ugly Cute]]
+- Description
+	- Gate to the east of town, and home of the guardian statue [[Ugly Cute]]

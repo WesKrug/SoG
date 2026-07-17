@@ -1,0 +1,12 @@
+- Affiliation
+	- [[Southbank]]
+- Location
+	- W12. In the [[Industrial District]]
+- Wares
+	- Paper and paper products
+- NPCs
+	- [[Kawaka Myna]]
+- Services
+	- All sorts of work here where PCs can use Crafting to make an income
+- Description
+	-

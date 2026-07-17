@@ -1,0 +1,13 @@
+- Affiliation
+	- Unaffiliated
+- Location
+	- W19
+	- Also houses [[Qi Zhong Shrine]]
+- Wares
+	-
+- NPCs
+	- [[Dami]]
+- Services
+	-
+- Description
+	-
