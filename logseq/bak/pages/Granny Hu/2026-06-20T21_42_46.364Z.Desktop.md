@@ -1,0 +1,6 @@
+- Ban-niang Hu _Retired Imperial Guard_
+- Street Urchin from Sze
+- Uses urchins as informants, as she rose up from them but kept them close like siblings
+- Volunteered to be an inaugural village guard captain in Willowshore
+- Retired in 7088 and decided to stay after 20 years of service
+-

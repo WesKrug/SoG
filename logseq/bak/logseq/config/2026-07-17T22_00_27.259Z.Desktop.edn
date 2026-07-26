@@ -421,6 +421,5 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true
  :builtin-pages? true}
- :graph/forcesettings {:link-dist 70
- :charge-range 1600
- :charge-strength -900}}
+ :graph/forcesettings {:link-dist 120
+ :charge-range 1600}}
