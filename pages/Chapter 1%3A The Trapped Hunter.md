@@ -1,0 +1,27 @@
+- Charged by [[Old Matsuki]] to find a hunter of the [[Silvermist Lodge]] to help hunt down the missing [[Ugly Cute]], the PCs must search through Southbank to find someone in order to enlist their help once the fighting in Willowshore ceases.
+- **Trigger**
+	- PCs spend 1 hour searching in Southbank
+	- `DC 17 Perception or DC 15 Survival`
+		- Success - they find their way to a small farm where some commotion is ongoing
+- **Location** Small farmhouse, page 20
+- **Creatures**
+	- 2 [[Jinkin]] and two mean-spirited animals
+		- Weasel named Noodles and a Raven named Sparrow
+			- https://2e.aonprd.com/Monsters.aspx?ID=1364
+			- https://2e.aonprd.com/Monsters.aspx?ID=4527
+	- > "Blue like the dawn! Purple and miraculous! Swift life a fawn! Together, we are the Abacus Sisters!"
+	- They fall into a fit of laughter as they tease our [[Sumika]], who has fallen to a trap inside and barricaded the door. "That means we're here to steal your cattle!!!"
+	- Sparrow mocks and teases Sumika, saying "Come out, kitty kitty kitty! Come out and get a treat!"
+	- > "Oh! So you're a chatty buch then? Think you've got the wits to win out against the Abacus Sisters?"
+		- Sparrow mocks "I doubt it! I doubt it!"
+	- Once it's obvious there are visitors, You see a bloodied head poke out from a high window as [[Sumika]] mouths "Help Me"
+	- They engage in a battle of wits to 'defeat' them `DC 13`
+		- `Point out the Abactor vs Abacus difference and they automatically win`
+	-
+- **Gumo**
+	- If they notice Gumo, they immediately try to coerce him to join their group. "Here, little itsy bitsy! We've a nice bug juicy bug in our pocket!" "Yes, yes, and scratches for you big bum! Hehehehe"
+- **After resolution**
+	- **Reward**
+		- 2 Spirit traps and parts for another 2 snares
+		- Recommends the [[Ketephys Shrine]] at the [[Silvermist Lodge]]
+-

@@ -11,3 +11,5 @@
 - **Family**
 	-
 - **NPC Stat Block**
+	- https://2e.aonprd.com/NPCs.aspx?ID=3413&NoRedirect=1
+	-
