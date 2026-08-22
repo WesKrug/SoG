@@ -1,0 +1,24 @@
+- Recap: https://playepicly.com/app/sessions/c09ad9fd-0341-4b63-80a1-4dd9379fa2e6
+- ## 📍 Where We Left Off
+	- Exact location: The party has just exited the Pharasma shrine after successfully receiving a blessing on one copper coin. You are heading east toward the route that leads to the Silvermist Lodge and the milling houses; the next planned stop is the lodge to look for a hunter to track Ugly Cute.
+	- Immediate player intentions stated on‑table: They intend to (1) find a hunter at Silvermist Lodge to track Ugly Cute; (2) contact Banyang Hu (Granny) on the north side to coordinate defenses; (3) plan how to deal with the busso on the bridge (poison option was discussed); (4) continue blessing two more coins and relight the Eternal Lantern.
+	- Resource snapshot (what was said, treat as canonical):
+		- Bucket (Wyatt) was crushed by a bookshelf (took major damage), received on‑table medical care and regained HP/resolve by the session end. He now has a makeshift wooden shield.
+		- Mr Tsuchi (Liam) was wounded earlier but active; he succeeded on the Pharasma blessing and holds one blessed coin. He has the shroud/hex toolkit active and a familiar present.
+		- Hsieh Lin (Brad) is lightly damaged and his wooden shield is damaged; he is actively worried about his daughter and pushing to get to the Silvermist Lodge.
+		- Aunt Miko (Maddie) was frightened by the crimson moon (failed will save) and has the persistent frightened‑1 baseline while the crimson moon mechanic persists.
+		- Matsuki/estate gifts: the party received five minor healing potions (or equivalent minor healing items) and the option to take small consumables (one 5‑gp item each or similar); a healer’s toolkit was purchased by Aunt Miko.
+	- Active conditions & rules established this session:
+		- Crimson Moon mechanic: when a crimson moon occurs give a Will save (GM DC 15 suggested in play); failures increase a persistent “frightened” baseline while the crimson moon persists. You stated how degrees affect future nights (fail -> frightened+1; crit fail -> +2; success -> no change; crit success -> -1). Keep track per character.
+		- Ghost practices / local rules: “Treat ghosts like people” (being kind/human in interaction wounds some spirits); “avoid entering water while ghosts are around” (a local practice with consequences).
+		- Faceless entities (called Naperobo/“faceless spirits” in play) are aberrations (not undead) and can wear faces and mimic PCs. They can be drawn to coins/shrines and they can animate environmental hazards (bookshelves falling).
+	- Loose loot / inventory change that matters now:
+		- Party holds one blessed coin (Pharasma). Two more coins still needed to relight the Eternal Lantern.
+		- Party received a handful of minor healing consumables from Sho Matsuki and access to small 5‑gp consumables. Track exact counts per PC before the next session.
+- ## 🔀 Decision Tree Planning
+	- [[Chapter 1: The Trapped Hunter]]
+	- [[Chapt]]
+	-
+	-
+	-
+	-

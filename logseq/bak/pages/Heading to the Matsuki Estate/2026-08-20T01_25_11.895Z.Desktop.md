@@ -1,0 +1,42 @@
+- The PCs have to travel all the way to W6 in order to get to the [[Matsuki Estate]], so at least 1 or 2 random encounters; ideally against jinkins
+- **Items of interest along the way**
+	- Path to W5 [[Silvermist Lodge]]
+	- W9 [[Nine Ear Shrine]]
+	- W14 [[Willowshore Dam]]
+	- W12 [[Industrial District]]
+	- W13 [[Woodraft Lake]]
+		- There are a number of dead villagers floating in the water
+	- W10 [[Her Fluvial Lady of Souls]]
+	- W11 [[Dawn Step Bridge]]
+	- W8 [[Milling Houses]]
+	- W7 [[Thrice-Blessed Inn]]
+	- W6 [[Matsuki Estate]]
+	-
+- Once they arrive
+	- > The Matsuki estate is a blur of activity. Many rooms have been cleared and converted into workshops, medical stations, or sleeping quarters. The only pocket of relative calm is in the banquet hall. Here, sitting with other major figured of south willowshore, Old Matsuki listens patiently to all the reports coming in.
+- Who all is there?
+	- [[Reverent Mother Otis]]
+	- [[Kawaka Myna]]
+	- [[Yong Wu-Xiu]]
+	- [[Kum Soon-chong]]
+	- [[Choe Chung-hu]]
+- **Requests**
+	- **Contacting Northridge**
+		- Despite their difference, Old Matsuki admits that uniting with the Northridge leader would help unify their efforts to save Willowshore, and hasn't heard anything from that side of the bridge.
+	- **Ugle Cute**
+		- He notes that several refugees have mentioned seeing silhouettes of a horse-sized spider striding through the mist. He hopes that it has awakened to help protect the town but can't confirm ever hearing about it doing so in the past.
+		- He plans on asking some hunters from [[Silvermist Lodge]] to help track it down and aid the guardian; but that they're busy fighting against the invasion.
+		- If possible, find a hunter and ask for their help
+		- [[Chapter 1: The Trapped Hunter]]
+	- **Invading Monsters**
+		- He warns the PCs about the Buso [[Gurglegut]] and the [[Jinkin]]s on the bridge.
+		- > The [[Jinkin]] seem to be afraid of fighting beside the Buso, perhaps calling out the Buso to challenge it or offering it poisoned alcohol may be a way to defeat him without having to fight the gremlins as well
+			- Offers that heading to [[The Hand of Spring]] may assist with obtaining poison for the buso
+			- [[Chapter 1: Clash at the Clinic]]
+	- **Unlit Lantern**
+		- > I suspect that the Eternal Lantern being snuffed out is exactly the cause of our invasion and it must be restored at all costs. I have never known it to not be lit, and I was there when [[Master Zhi Hui]] lit it in the first place
+		- > Take these 3 coins and obtain blessings from 3 shrines within Willowshore. Let me show you the prayer to do so...
+		- [[Chapter 1: Light the Night]]
+	- **Downtown Willowshore**
+		- > Do not try to enter downtown. Many villagers have been found floating in [[Woodraft Lake]], and we can only assume that the monsters have taken over that area. We have no idea how many there are but it's too dangerous to try to reclaim right now. Once you've performed the other tasks I've set out for you, then maybe we can start to free the village of these monsters but until then, it's too dangerous
+		-

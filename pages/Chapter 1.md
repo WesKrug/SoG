@@ -6,6 +6,7 @@
 	- DC 10 Survival or Willowshore Lore check to spot the game trail leading West back to town
 - ### [[First Day of Summer]]
 	- #### 4 Encounters
+	  collapsed:: true
 		- 1. [[Strange Aggression]]
 		  {{video https://youtu.be/GjH8zQ8DRh0}}
 			- After some contemplation about their situation, someone noticing rustling in the nearby undergrowth
