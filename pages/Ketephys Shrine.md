@@ -1,0 +1,1 @@
+- https://2e.aonprd.com/Deities.aspx?ID=462&Redirected=1

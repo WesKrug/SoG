@@ -1,1 +1,4 @@
 - Take these 3 coins and invoke the blessing of the shrine at 3 different shrines within willowshore. Then place the coins in the lantern.
+- The Lantern
+- When done, the lantern immediately lights the immediate area with a 30ft glowing light
+-

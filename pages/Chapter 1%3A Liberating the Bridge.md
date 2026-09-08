@@ -1,0 +1,5 @@
+- A dozen or so Jinkin laugh and entertain the Buso [[Gurglegut]] while he drinks and sings to himself on a throne of stole and destroyed furniture
+- Depending on what the PCs do, only a few Jinkin step forward brandishing weapons - the others stay back and laugh and jeer at the PCs
+- `Fight 3 Jinkin`
+- After that, Gurglegut steps forward and belches his challenge before rushing the PCs drunkely
+	- Apply Sickened 2 and make him vomit every turn to reduce his sickened value. On a crit success, make the PCs take a DC 15 Fort save or be frightened 1 themselves

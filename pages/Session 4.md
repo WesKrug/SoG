@@ -1,5 +1,6 @@
 - Recap: https://playepicly.com/app/sessions/c09ad9fd-0341-4b63-80a1-4dd9379fa2e6
 - ## 📍 Where We Left Off
+  collapsed:: true
 	- Exact location: The party has just exited the Pharasma shrine after successfully receiving a blessing on one copper coin. You are heading east toward the route that leads to the Silvermist Lodge and the milling houses; the next planned stop is the lodge to look for a hunter to track Ugly Cute.
 	- Immediate player intentions stated on‑table: They intend to (1) find a hunter at Silvermist Lodge to track Ugly Cute; (2) contact Banyang Hu (Granny) on the north side to coordinate defenses; (3) plan how to deal with the busso on the bridge (poison option was discussed); (4) continue blessing two more coins and relight the Eternal Lantern.
 	- Resource snapshot (what was said, treat as canonical):
@@ -16,8 +17,15 @@
 		- Party holds one blessed coin (Pharasma). Two more coins still needed to relight the Eternal Lantern.
 		- Party received a handful of minor healing consumables from Sho Matsuki and access to small 5‑gp consumables. Track exact counts per PC before the next session.
 - ## 🔀 Decision Tree Planning
+	- **At the [[Silvermist Lodge]]**
+		- The PCs approach the lodge and see elven made architecture deeply integrated with trees, leaving a shockingly beautiful forest scene. A light smoke is rising from the tall chimney and lights are seen on inside.
+		- The PCs enter and the energy immediately shifts. It is completely empty. There are no people, fire, furniture, cobwebs, nothing. It's as though this place has been left in some alternate space where not even dust pervades the air.
+		- The [[Ketephys Shrine]] is here
 	- [[Chapter 1: The Trapped Hunter]]
-	- [[Chapt]]
+	- [[Chapter 1: Liberating the Bridge]]
+	- [[Chapter 1: Light the Night]]
+	- [[Chapter 2: Reclaiming Willowshore]]
+	-
 	-
 	-
 	-

@@ -1,0 +1,7 @@
+- Once the PCs reclaim the bridge and head north (or otherwise make their way into downtown...), they find a number of powerful monsters and tricks. It seems the monsters have taken refuge here and coordinate their takeover of Willowshore.
+- [[Mo Douqui]] is in charge and uses the [[Cerulean Teahouse]] as his primary base of operation.
+	- Once he is defeated, the invasion is over and monsters retreat from the village
+- [[Gray Butcher]] is another ringleader who is actively patrolling the downtown area with his animated cookware agents
+-
+- [[Chapter 2: Liberating Downtown]]
+-
