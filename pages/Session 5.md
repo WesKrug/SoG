@@ -29,11 +29,10 @@
 		- [[Chapter 1: The Tower]]
 - ## [[Granny Hu]] at [[Ceiba-Duyue Exchange]]
 	- [[Chapter 1: Contact Northridge]]
-	-
+- ## [[Chapter 2: Reclaiming Willowshore]]
+- ## [[Chapter 1: Light the Night]] - Reclaiming the Bridge and fighting [[Gurglegut]]
 - Things to Prep:
-	- [[Granny Hu]] encounter
 	- Heading into Downtown for the first time
 		- Seeing the mission governer's estate
 		- Exploring Bucket's Home?
-	- Bridge Fight against [[Gurglegut]]
 	- More random "spooky" encounters

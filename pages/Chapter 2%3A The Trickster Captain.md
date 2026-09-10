@@ -1,0 +1,11 @@
+- [[Zheng Peng]] and 4 Guards are locked in the Prison area [[B4 - Prison]].
+-
+- A [[Noppera-Bo]] Trickster is impersonating the Captain and is patroling around the corner as the PCs arive
+- The Trickster insists on waiting for the perfect moment to strike, and wants the PCs to come inside to help strategize
+	- If they do and fail to notice the jerry-rigged [Spear Trap](https://2e.aonprd.com/Hazards.aspx?ID=483&Redirected=1) `DC 18 Perception` that triggers from a wooden pressure plate under a rug, they take the damage as 3 Jinkin rush from inside the [[B2 - Imperial Guard Office]]
+	- Encounter time!
+- After the PCs win, they continue into the Prison and find the locked up prisoners, where [[Zheng Peng]] really is
+	- **They're all at 1HP, Fatigued, and Enfeebled 3**
+	- He tells the PCs of his contingency about hiding backup keys hidden under a loose brtick in the southwest corenr of the room
+- [[Zheng Peng]] is thankful and asks to head to the armory, where he and his men will bring whatever they can to the [[Ceiba-Duyue Exchange]] to coordinate an attack with his Aunt [[Granny Hu]]
+- He also introduces [[Mo Douqui]] as a human-looking figure with a bald head and sharp teeth. I saw him appear and his head turned around like an owl and stretched... Those teeth...

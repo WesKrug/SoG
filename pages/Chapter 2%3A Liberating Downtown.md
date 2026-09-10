@@ -1,4 +1,46 @@
 - Map at the end of the book
 - Details starting page27
--
--
+- [[Downtown Willowshore]] has many locations, here's a breakdown of what's going on at each during the invasion. These are ordered based on the likelyhood that they'll be seen from the street
+	- **EASILY VISIBLE**
+		- [[B1 - Empty Lot]]
+			- The Governor's mansion is missing
+			- > The opulent Governor's Manor, just yesterday the crowning jewel of downtown, has vanished without a trace. The only indication that there was once a building in this empty a lot are the two guardian stone lions that once guarded the entrance of the manor. Both have been defaced and damaged.
+		- [[B16 - Public Stage]]
+			- **The Jinkin can easily be seen here playing on the set**
+			- > The mural on the back of the stage has been defaced and chipped
+			- 3 Jinkin are playing wearing costumes and demand that the PCs watch their impromtu "play" about the terrified citizens
+			- If the PCs leave, they shout and throw loose shingles, saying theyre a bad audience
+			- Any damage or intimidation will cause them to run and flee
+		- [[B7 - Training Yard]]
+			- > A bloody trail extends from the stables out through the norther gates of the sandy training yard
+			- `DC 9` Survival check to follow the tracks to the [[The Happy Kappa]]
+	- [[B2 - Imperial Guard Office]]
+		- > This office looks like a hurricane has been through it with documents strewn about the room. Very few furnishings remain in the room at all.
+		- [[Chapter 2: The Trickster Captain]]
+	- [[B3 - Guard House Courtyard]]
+		- > This sunken courtyard is hidden from above by a canopy of wisteria in full bloom
+	- [[B4 - Prison]]
+		- [[Chapter 2: The Trickster Captain]]
+	- [[B5 - Outdoor Prison Cell]]
+		- > This bamboo cage serves  as a holding cell for those who commit petty crimes
+		- 4 Villagers have been thrown in here to "repent" or risk being sent to the [[Cerulean Teahouse]]
+			- [[List of Names]]
+			- Captured by a [[Mo Douqui]] and his [[Jinkin]]
+		- Cage is unlocked by the key in the [[B4 - Prison]] area
+	- [[B6 - Armory]]
+		- page 28 - PCs can take whatever they want after the guards are outfitted
+	- [[B8 - Infested Stables]]
+		- > The smell of offal and rotten meat stagnates. Inside lay a dozen horses. Most died with their eyes wide open, sharing the pain of their last moments.
+		- Cockroach Swarm Fight
+	- [[B9 - Treesparrows Rest]]
+		- > This grain shop seems to be relatively untouched. You can still see bags of grain, millet, and buckwheat in the display. There are jars and vases among the shelves that make this place seem as though the spirits and creatures have avoided it entirely. As you enter, you feel the air grow humid and moist. The smell isn't unbearable, but smells moldy and swampy.
+		- Hazard - Poisonous Mold
+			- https://2e.aonprd.com/Hazards.aspx?ID=478
+	- [[B10 - Sanmi Household]]
+		- > This family home has been throughly robbed of nearly everything of worth, from all their cookware to whatever clothing or valuables they had in their antique drawers.
+		- Searching this house and succeeding `DC 20 Perception` will reveal a hidden stack of letters in a compartment beneath a dresser drawer.
+			- Reading these letters wil lreveal a secret and blossoming relationship between the youngest generation of the Sanmi and Hu families, [[Yuli Sanmi]] and [[Hu Lelong]].
+			- This will help with [[B11 - Mudwall house]]
+				- `DC 10 Willowshore Lore` that the highly traditional Sanmi family wouldn't approve of this relationship.
+	- [[B11 - Mudwall house]]
+		- > this house has a double-layered mud wall that regulates heat, cold, and sound - though it isn't up to the task of dampening the rabble of high-pitched voices within.

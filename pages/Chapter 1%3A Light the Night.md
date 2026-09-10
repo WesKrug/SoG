@@ -1,4 +1,8 @@
-- Take these 3 coins and invoke the blessing of the shrine at 3 different shrines within willowshore. Then place the coins in the lantern.
-- The Lantern
-- When done, the lantern immediately lights the immediate area with a 30ft glowing light
+- Defeat [[Gurglegut]] and light the [[Eternal Lantern]]
+- ## [[Gurglegut]] Encounter
+	- If the PCs approach with a gift of Wine, [[Gurglegut]] laughs and promptly swipes it from them, drinking it up and immediately taking a fortitude save from the [[Dreamtime Tea]]. `DC 21`
+		- If he fails and falls unconscious, the Jinkin panic and flee, thinking that he died
+		- If he succeeds, he angrily charges the PCs
+	- Possibly throw a few Jinkin at the PCs first to lighten them up or scatter them
 -
+- PCs place the 3 coins in the Eternal Lantern and close the gate.

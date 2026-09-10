@@ -1,0 +1,11 @@
+- https://2e.aonprd.com/Deities.aspx?ID=290
+- Things to Prep:
+	- Wrapping up at Dr [[Dami]] and [[The Hand of Spring]]
+	- [[Granny Hu]] encounter
+	- Heading into Downtown for the first time
+		- Seeing the mission governer's estate
+		- Encounter with the face stealing [[Nappera-bo]] impersonating Captain [[Zheng Peng]]
+		- Exploring Bucket's Home?
+	- Bridge Fight against [[Gurglegut]]
+	- More random "spooky" encounters
+		-

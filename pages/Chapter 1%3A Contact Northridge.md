@@ -3,13 +3,23 @@
 	- There are a few folk scrambling around, transporting food and cleaning bloody rags. The PCs encounter [[Zataku]] - the Ratfolk fishmaster. She points the PCs to The Exchange office, where Granny Hu is coordinating the efforts here
 	- She seems very busy and has a basket full of fish as a guard accompanies her from the river as she heads to a nearby warehouse
 - The PCs walk into the Exchange
-	- [[Granny Hu]] is at the front desk with [[Kim Gu-Won]] - the office manager. She wears a find grey and green kimono as she smokes from a pipe and points with it toward a map with some game pieces.
-	- She looks up with surprise as the PCs approach. She demands they sit and tell her everything they've seen thus far.
-	- She exclaims her woes at trying to protect the townsfolk here with so few guards. Every night more and more of those damn gremlins or creatures appear, attacking the villagers. She exclaims that her nephew, Captain [[Zheng Peng]], must still be holed downtown by the barracks with the rest of the guard. He's a competent boy, I'm sure he's doing fine, but I am starting to get worried and we need whats in the armory to take back the town.
-	- She's coordinating an attack, but keeps getting delayed by more survivors flooding in and supplies running thin with people stressed out, and that damn moon last night was threatening to break the calm she's tried so hard to maintain.
-	- She doesn't know much about the [[Eternal Lantern]] and waves it off as though it doesn't matter. [[Kim Gu-Won]] is the one who recalls the initial lighting by [[Master Zhi Hui]] so long ago.
-	- [[Ha Bai-Yu]] rushes out from behind the counter as she hears [[Mr Tsuchi]]'s voice and hugs him, asking about her Mom, [[Ha Hai-er]]
-		- If the PCs tell her about [[Ha Hai-er]], Hu asks them to fetch her as they could use all the help they can muster. She's no good at that tower on her own and her daughter needs her.
-	- She asks the PCs to help retake the armory if they express interest in heading downtown, but admits that [[Old Matsuki]]'s guidance on retaking the bridge and uniting Willowshore likely takes precedence if it hasn't already
-		- [[Chapter 2: The Trickster Captain]]
-	- She also asks if the PCs have seen her grandson. They were last seen the night of the [[Reenactment Festival]] festival heading toward the [[Mushroom House]], likely to have their own festivities. They haven't been seen since and she's getting more and more worried. She's sent guards to the [[Mushroom House]] but they haven't found anything yet
+	- **Meet & Greet**
+		- She looks up with surprise as the PCs approach. She demands they sit and tell her everything they've seen thus far.
+		- [[Granny Hu]] is at the front desk with [[Kim Gu-Won]] - the office manager. She wears a find grey and green kimono as she smokes from a pipe and points with it toward a map with some game pieces.
+	- **Concern about [[Zheng Peng]] and defending the villagers here**
+		- She exclaims her woes at trying to protect the townsfolk here with so few guards. Every night more and more of those damn gremlins or creatures appear, attacking the villagers. She exclaims that her nephew, Captain [[Zheng Peng]], must still be holed downtown by the barracks with the rest of the guard. He's a competent boy, I'm sure he's doing fine, but I am starting to get worried and we need whats in the armory to take back the town.
+		- She's coordinating an attack, but keeps getting delayed by more survivors flooding in and supplies running thin with people stressed out, and that damn moon last night was threatening to break the calm she's tried so hard to maintain.
+	- **Eternal Lantern**
+		- She doesn't know much about the [[Eternal Lantern]] and waves it off as though it doesn't matter. [[Kim Gu-Won]] is the one who recalls the initial lighting by [[Master Zhi Hui]] so long ago.
+	- **Bai-Yu**
+		- [[Ha Bai-Yu]] rushes out from behind the counter as she hears [[Mr Tsuchi]]'s voice and hugs him, asking about her Mom, [[Ha Hai-er]]
+			- If the PCs tell her about [[Ha Hai-er]], Hu asks them to fetch her as they could use all the help they can muster. She's no good at that tower on her own and her daughter needs her.
+	- **Retaking Downtown (for the Armory)**
+		- She asks the PCs to help retake the armory if they express interest in heading downtown, but admits that [[Old Matsuki]]'s guidance on retaking the bridge and uniting Willowshore likely takes precedence if it hasn't already
+			- [[Chapter 2: The Trickster Captain]]
+	- **Missing Grandson & Friends**
+		- They were last seen the night of the [[Reenactment Festival]] festival heading toward the [[Mushroom House]], likely to have their own festivities. They haven't been seen since and she's getting more and more worried. She's sent guards to the [[Mushroom House]] but they haven't found anything yet
+		- [[Chapter 1: The Worst Puzzle]]
+	- **Invading Monsters**
+		- She has heard a rumor that the "brain" of these operations is something named "[[Mo Douqui]]" Some human or yokai with strange occult powers.
+		- She doesn't see retaking the bridge as a priority, but rather that downtown is riddled with monsters and we need to start taking steps toward establishing control over the north bank.
