@@ -1,0 +1,13 @@
+- **Ancestry**
+	- Female Ratfolk
+- **Occupation**
+	- Fisher
+- **Location**
+	- [[Fisheries]]
+- **Affiliation**
+	- [[Northridge]]
+- **Personality**
+	- Loner, off-putting. She has a gift for telling the weather
+- **Family**
+	-
+- **NPC Stat Block**

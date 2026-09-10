@@ -1,0 +1,13 @@
+- **Ancestry**
+	- Human Male
+- **Occupation**
+	- Inventor at Second Best
+- **Location**
+	- [[Second Best]]
+- **Affiliation**
+	-
+- **Personality**
+	-
+- **Family**
+	-
+- **NPC Stat Block**

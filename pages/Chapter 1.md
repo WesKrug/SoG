@@ -7,7 +7,8 @@
 - ### [[First Day of Summer]]
 	- #### 4 Encounters
 	  collapsed:: true
-		- 1. [[Strange Aggression]]
+		- collapsed:: true
+		  1. [[Strange Aggression]]
 		  {{video https://youtu.be/GjH8zQ8DRh0}}
 			- After some contemplation about their situation, someone noticing rustling in the nearby undergrowth
 			- Two [[Giant Centipede]]s scuttle toward the PCs. They hiss, making spooky sounds which begin to sound like words:
@@ -75,4 +76,4 @@
 	- ### **Back to Willowshore**
 		- #### [[Willowshore Random Encounters]]
 		- Time to explore!
-		-
+	-

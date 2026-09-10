@@ -1,0 +1,11 @@
+- Minor encounter here - Igawa asked the players to check up on her tower if they're heading east. She hasn't been since the invasion when her lower half was torn up by a some haunted cookware that leapt from her kitchen. She recalls seeing a large apron turn bloody before her eyes as it constricted her body, until it suddenly stopped, rushed outside toward downtown and brought all her cookware along in tow, which raked and cut her body as it left. She stumbled out the door, locked it behind her, and that was when Dami found her and took her to the Clinic.
+-
+- As the PCs approach the tower, things seem normal, except:
+	- #### 1. The Keyhole Breathes
+		- **The Sight:** The keyhole is intact, but the iron around it is glossy with a thin, viscous film. Looking closely, the keyhole isn't a dark void—it **dilates and contracts** slightly, like a pupil exposed to light, on a slow eight-second cycle.
+		- **The Interaction:** If a character places a hand or ear near the keyhole, they feel a faint, hot exhale of wet air. There is no sound of breathing—just the wet, rhythmic *shuck-shuck* of a pump or a heavy heart operating inside solid wood.
+	- 2. Non-Euclidean Masonry
+		- **The Sight:** The stone walls look sturdy, but running an eye down the mortar lines triggers intense nausea. The angles do not resolve correctly in the human eye. The spire appears straight from ten feet away, but from five feet away, it seems to tilt sharply toward the viewer, as if the top of the tower is leaning down to whisper.
+		- **The Interaction:** Running a hand along the stone feels wrong. The mortar seams don't feel like dry lime; they feel cool, yielding, and damp, like the cartilage between joints. In several places, the stone is "sweating" a yellow, odorless bile that pools at the base of the tower without running off.
+- Otherwise, everything is fine! they're unable to open the door and the building itself feels _alive_, but otherwise harmless
+	-

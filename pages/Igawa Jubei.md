@@ -1,0 +1,13 @@
+- **Ancestry**
+	- Female Naga
+- **Occupation**
+	- Wizard
+- **Location**
+	- [[Mother's Coil]]
+- **Affiliation**
+	- [[Northridge]]
+- **Personality**
+	- Determined. Intelligent to a fault and flaunts it
+- **Family**
+	- n/a
+- **NPC Stat Block**

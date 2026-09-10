@@ -3,5 +3,37 @@
 	- [[Ketephys Shrine]]
 	- [[Daikitsu Shrine]]
 	- [[Pharasma Shrine]]
+- ## Intro Scene
+  collapsed:: true
+	- Camera pans up on the Exchange. It's a sunny day as we peer from westward from the coast of the Duyue River. The camera pans over to the logistics district, where folk are laboring and transporting goods to a river boat headed to [[Karahai]].
+	- We follow a middle aged man, [[Lu Fei]]. A local Alchemist who seems to be moseying north through the exchange. We see him wait for a cart or two, and dodge some passersby as he waltzes north, humming to himself.
+	- [[Lu Fei]] continues north toward the Mushroom house. We see a small brick farmhousewith several lumber drying racks arranged with a myriad of different mushrooms. The stranger furls his nose and clears his throat and continues walking up to the door. Without knocking and without a care in the world, he walks right in, exclaiming " [[Luda Bama]]! I brought that tallow you wanted!..."
+	- A small, elderly halfing woman in brown overalls jumps up from her workstation in the back, rushes toward Fei and closes the door behind her. "Why... was that Graveroot?"
+	- "Out! Out! Gimme that and get out! Forget what you saw" The small halfling woman practically kicks Fei out and closes the door behind him, locking it. A bit startled and curious... Fei confusedly goes about his day
+	- Later that evening, we see Fei at his home on the Northbank near downtown. He's enjoying some tea and working on some alchemical project when suddenly he hears his door open behind him. Lo and behold, Granny Hu has let herself in
+	- *"Lu Fei, child. Working so late? A man of your years needs to mind his eyes... and his tongue."*
+	- Granny Hu stands there, holding a bottle of Sake and says, *"Sit. Lets catch up, shall we? Hows your Uncle, Jung Fei doing?"*
+	- *"O-of course! welcome, Madam Hu! Allow me to offer you a seat and fetch some dishes"* he rushes to do as she bids.
+	- *"You know, it was some 45 years ago that I remember your uncle. Nasty winter, that... lots of sick, a few dead..."* She sips from her glass as Lu Fei hands it to her. *"And I distinctly remember catching your uncle, Jung Fei, with a sack of rice in hand and a parcel of medicine. You know I could have had him thrown out of town for that... But I'm a compassionate woman. I took pity on him, went out of my way to forge the records and went about my business. The Fei have always been a respected family here and who am I to besmirch their name? I kept my eyes closed that day."*
+	- *"But my eyes open very easily, Lu Fei. And if a retired captain were to suddenly remember an unclosed ledger... well. That wouldn't look too kindly on your family name then would it? The governor may be a kind man, but he does not take kindly to stealing."*
+	- Lu Fei gulps. *"H-...he had nothing to do with what I saw. He's just an old man, he doesn't need his shame brought to light. Please, let him be and I'll keep what I saw to myself"*
+	- Granny Hu looks up the Tengu. *"Oh, calm yourself Lu. I know you won't say anything. Afterall, "* She stands up and starts to make for the door. She turns her head and says curtly, *“Add the drink to his tab, and don’t make a mess this time.”*
+	- Confused, Lu Fei watches Hu leave and close the door behind her. Suddenly, Lu heard a voice behind him
+	- > Bucket says "[blah blah]"
+	- Granny Hu strides away from the house, a loud yelp and a scuffle can be heard in the house behind her. She turns to her escort, *“Let him know he can join the festival after his morning work is done. I have nothing else for him this week.”*
+	  She departs the scene, as the sound of breaking glass and yelling can be heard from the house.
+- ## [[Dami]] at [[The Hand of Spring]]
+	- Wrapping up [[Chapter 1: Clash at the Clinic]]
+	- The PCs have their poison as well as their supplies. Dami won't abandon the wounded here, and otherwise the PCs are done here.
+	- If they ask [[Igawa Jubei]] about her injury or [[Mother's Coil]], she asks them the check up on it and ensure that the door is still locked. There should be no other way and she has the key, which she won't give to the PCs. She simply asks the PCs to check up on the tower.
+		- [[Chapter 1: The Tower]]
+- ## [[Granny Hu]] at [[Ceiba-Duyue Exchange]]
+	- [[Chapter 1: Contact Northridge]]
 	-
--
+- Things to Prep:
+	- [[Granny Hu]] encounter
+	- Heading into Downtown for the first time
+		- Seeing the mission governer's estate
+		- Exploring Bucket's Home?
+	- Bridge Fight against [[Gurglegut]]
+	- More random "spooky" encounters

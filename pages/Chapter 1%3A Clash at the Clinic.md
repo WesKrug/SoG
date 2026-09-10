@@ -2,8 +2,8 @@
 - Takes place at [[The Hand of Spring]]
 - This has become an impromtu haven for those unaffiliated or whoever couldn't reach North / South
 - **Who's here?**
-	- [[Igawa Jubei]] - injured - sprained ankle escaping from a jinkin contraption
-	- [[Huo Tian-Zhe]] - injured - alchemical explosion caused a large burn wound
+	- [[Igawa Jubei]] - injured - her snake-like lower half is all torn and bandaged up. She can't easily move without assistance and is bed ridden until healed
+	- [[Huo Tian-Zhe]] - injured - alchemical explosion caused a large burn wound across his left side and neck
 - **When they approach**
 	- The left half appears to be boarded up and abandoned, but as they approach, sounds of hissing, browling, and thumping of a battle become apparent. The sounds appear to be coming from the eastern courtyard.
 	- There appear to be several giant centipedes attacking a ghostly gecko the size of a human
