@@ -1,0 +1,25 @@
+- Page 20
+- Takes place at [[The Hand of Spring]]
+- This has become an impromtu haven for those unaffiliated or whoever couldn't reach North / South
+- **Who's here?**
+	- [[Igawa Jubei]] - injured - sprained ankle escaping from a jinkin contraption
+	- [[Huo Tian-Zhe]] - injured - alchemical explosion caused a large burn wound
+- **When they approach**
+	- The left half appears to be boarded up and abandoned, but as they approach, sounds of hissing, browling, and thumping of a battle become apparent. The sounds appear to be coming from the eastern courtyard.
+	- There appear to be several giant centipedes attacking a ghostly gecko the size of a human
+- ## Encounter!
+	- 3 Giant Centipedes
+	- 1 Ghostly Gecko
+		- This Gecko regards the PCs as potential intruders but is a guardian of the building
+		- It is currently fighting 2 of the Centipedes itself but 3 more skamper toward the PCs
+	- As the encounter finishes, the Gecko attempts to threaten the PCs on its turn but doesn't initiate an attack.
+	- Dr [[Dami]] rushes out, shouting "Don't kill it!"
+	- Reward
+		- 2 Antidotes
+		- Gives them a lesser darkvision elixir if they don't kill the Gecko
+- ## Aftermath
+	- **If the PCs mention Granny Hu's request**
+		- Dismesses it with a wave of his hand, stating his disinterest in her posturing and politics. I feel safe in my clinic and will not abandon it. There are wounded here and moving them would cause more harm than good
+	- **If the PCs mention poisoning the Buso**
+		- He nods grimly, stating that he'll help but that he doesn't condone poisoning
+		- Gives the PCs a dose of [[Dreamtime Tea]]

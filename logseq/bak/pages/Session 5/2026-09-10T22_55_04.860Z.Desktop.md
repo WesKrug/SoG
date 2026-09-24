@@ -1,0 +1,7 @@
+- Recap: https://playepicly.com/app/sessions/7a06a9ff-432a-4ade-a92a-b7d2abc5fd6f
+- We have our 3 Coins!
+	- [[Ketephys Shrine]]
+	- [[Daikitsu Shrine]]
+	- [[Pharasma Shrine]]
+	-
+-
