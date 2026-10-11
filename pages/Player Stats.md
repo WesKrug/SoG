@@ -1,0 +1,39 @@
+- Wyatt
+	- Perception ``
+	- Knowledge
+		- Arcane ``
+		- Religion ``
+		- Occult ``
+		- Nature ``
+		- Society ``
+		- Lore ``
+	- Stealth ``
+- Maddie
+	- Perception
+	- Knowledge
+		- Arcane
+		- Religion
+		- Occult
+		- Nature
+		- Society
+		- Lore ``
+	- Stealth ``
+- Brad
+	- Perception ``
+	- Knowledge
+		- Arcane ``
+		- Religion ``
+		- Occult ``
+		- Nature ``
+		- Society ``
+		- Lore ``
+	- Stealth ``
+- Liam
+	- Perception ``
+	- Knowledge
+		- Arcane ``
+		- Religion ``
+		- Occult ``
+		- Nature ``
+		- Society ``
+	- Stealth ``

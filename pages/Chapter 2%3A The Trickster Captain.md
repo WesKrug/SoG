@@ -6,6 +6,18 @@
 	- Encounter time!
 - After the PCs win, they continue into the Prison and find the locked up prisoners, where [[Zheng Peng]] really is
 	- **They're all at 1HP, Fatigued, and Enfeebled 3**
-	- He tells the PCs of his contingency about hiding backup keys hidden under a loose brtick in the southwest corenr of the room
+	- He tells the PCs of his contingency about hiding backup keys hidden under a loose brick in the southwest corner of the room
 - [[Zheng Peng]] is thankful and asks to head to the armory, where he and his men will bring whatever they can to the [[Ceiba-Duyue Exchange]] to coordinate an attack with his Aunt [[Granny Hu]]
+	- $$Armory Reward$$
+	- Dozen Scale Mail
+	- Dozen Studded Leather Armor
+	- 10x Crossbows & 100 bolts
+	- Dozen Daggers
+	- 6 Clubs
+	- 4 Saps
+	- 4x **[Lesser Frost Vials](https://2e.aonprd.com/Equipment.aspx?ID=3293)**
+	- Cold Iron Buckler
+	- Silver Shortsword
+	- +1 spear
+	-
 - He also introduces [[Mo Douqui]] as a human-looking figure with a bald head and sharp teeth. I saw him appear and his head turned around like an owl and stretched... Those teeth...

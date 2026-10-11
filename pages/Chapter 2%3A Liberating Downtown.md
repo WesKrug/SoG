@@ -6,6 +6,7 @@
 			- The Governor's mansion is missing
 			- > The opulent Governor's Manor, just yesterday the crowning jewel of downtown, has vanished without a trace. The only indication that there was once a building in this empty a lot are the two guardian stone lions that once guarded the entrance of the manor. Both have been defaced and damaged.
 		- [[B16 - Public Stage]]
+		  collapsed:: true
 			- **The Jinkin can easily be seen here playing on the set**
 			- > The mural on the back of the stage has been defaced and chipped
 			- 3 Jinkin are playing wearing costumes and demand that the PCs watch their impromtu "play" about the terrified citizens
@@ -34,8 +35,9 @@
 		- Cockroach Swarm Fight
 	- [[B9 - Treesparrows Rest]]
 		- > This grain shop seems to be relatively untouched. You can still see bags of grain, millet, and buckwheat in the display. There are jars and vases among the shelves that make this place seem as though the spirits and creatures have avoided it entirely. As you enter, you feel the air grow humid and moist. The smell isn't unbearable, but smells moldy and swampy.
-		- Hazard - Poisonous Mold
+		- Hazard - Poisonous Mold* (Purple Pox)
 			- https://2e.aonprd.com/Hazards.aspx?ID=478
+			- > `Purple Pox (disease) Myceloids are immune; Saving Throw DC 20 Fortitude; Onset 1 minute; Stage 1 2d6 poison damage and stupefied 1 (1 day); Stage 2 6d6 poison damage, stupefied 3, and the creature is compelled to seek out the nearest myceloid colony—this compulsion is a mental and emotion effect (1 day); Stage 3 The creature dies. After 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid.`
 	- [[B10 - Sanmi Household]]
 		- > This family home has been throughly robbed of nearly everything of worth, from all their cookware to whatever clothing or valuables they had in their antique drawers.
 		- Searching this house and succeeding `DC 20 Perception` will reveal a hidden stack of letters in a compartment beneath a dresser drawer.

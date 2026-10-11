@@ -1,0 +1,5 @@
+- Session 5 recap https://playepicly.com/app/sessions/4e5cdb70-0b77-46bc-8d5c-6f95d94926f0?tab=dmnotes
+- We left off as a janky spear trap was set off in the Barracks as noppera-zheng attempted to lure them in to fight him and the Jinkin
+- Run Encounter [[Chapter 2: The Trickster Captain]]
+- Potential routes from there: [[Chapter 2: Reclaiming Willowshore]]
+-
